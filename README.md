@@ -49,7 +49,7 @@
 
   ### 🎯 Areas of Interest | Domaines d'intérêt
 
-  E-commerce • Retail • Sports Analytics • Marketing Analytics
+  Sports Analytics • Business Analytics
 
   ---
 
