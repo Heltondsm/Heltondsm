@@ -15,7 +15,7 @@
   - 🎓 **Bachelor's in Data Analytics** @ OpenClassrooms
     - 🏆 **WASC Accredited Bachelor's Degree** (US Regional Accreditation)
     - 📜 **RNCP Level 6 ( Bac +3/4)** Certification (French State Recognition)
-    - 📊 **12-month intensive program** | 13 practical projects | 804 supervised hours
+    - 📊 **12-month intensive program** | 13 practical projects | 1608 supervised hours
   - 🔥 **2/13 projects completed** (P1 ✅, P2 in progress)
   - 💻 Learning: **Python, SQL, Power BI, R, Machine Learning, Tableau**
 
