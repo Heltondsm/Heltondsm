@@ -1,65 +1,56 @@
-# 👋 Hi, I'm Helton | Salut, c'est Helton
+# Salut, c'est Helton
 
-  ## 🎯 Data Analyst in training | Data Analyst en formation
+## Data Analyst en formation | 10 ans Business & E-commerce
 
-  After 10 years in business (retail, e-commerce, management), I'm now specializing in **Data Analytics** to turn data into
-  strategic decisions.
+Apres 10 ans dans le business (retail, e-commerce, management), je me specialise en **Data Analytics** pour transformer les donnees en decisions strategiques.
 
-  *Après 10 ans dans le business (retail, e-commerce, management), je me spécialise en **Data Analytics** pour transformer les 
-  données en décisions stratégiques.*
+---
 
-  ---
+### Actuellement
 
-  ### 🚀 Currently | Actuellement
+- **Bachelor Data Analytics** @ OpenClassrooms (RNCP Niveau 6, 13 projets pratiques)
+- **3/13 projets valides** : P1 ✅ P2 ✅ P3 ✅ | P4 en cours (etude sante publique FAO, Python)
+- En apprentissage : **Python, SQL, Power BI**
 
-  - 🎓 **Bachelor's in Data Analytics** @ OpenClassrooms
-    - 🏆 **WASC Accredited Bachelor's Degree** (US Regional Accreditation)
-    - 📜 **RNCP Level 6 ( Bac +3/4)** Certification (French State Recognition)
-    - 📊 **12-month intensive program** | 13 practical projects | 1608 supervised hours
-  - 🔥 **2/13 projects completed** (P1 ✅, P2 in progress)
-  - 💻 Learning: **Python, SQL, Power BI, R, Machine Learning, Tableau**
+---
 
-  ---
+### Competences
 
-  ### 🛠️ Tech Stack
+**Maitrisees :**
+- Google Analytics (4 ans d'utilisation quotidienne)
+- Excel avance (tableaux croises, formules, macros)
+- SQL (requetes, jointures, agregations)
+- Reporting & KPIs
+- E-commerce Analytics
 
-  **Learning:**
-  - **Languages:** Python, SQL, R
-  - **BI Tools:** Power BI, Tableau
-  - **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn, KNIME
-  - **Databases:** PostgreSQL, MySQL
+**En formation :**
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- Machine Learning (a venir)
 
-  **Proficient:**
-  - Google Analytics (4 years daily use)
-  - Excel (advanced: pivot tables, macros, formulas)
-  - Reporting & KPIs
-  - E-commerce Analytics
+---
 
-  ---
+### Projets
 
-  ### 📊 Featured Projects | Projets en vedette
+| Projet | Description | Technos |
+|--------|-------------|---------|
+| [E-commerce Sales Analysis (SARIMA)](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima) | Prevision de ventes avec modelisation statistique | Python, Statsmodels |
+| [SQL Assurances Habitation](https://github.com/Heltondsm/sql-assurances-habitation) | Analyse BDD assurances, requetes SQL avancees | SQL, SQLite |
+| P4 - Etude FAO *(en cours)* | Analyse sous-nutrition mondiale 2013-2017 | Python, Pandas, Matplotlib |
 
-  🔹 **[E-commerce Sales Analysis (SARIMA)](https://github.com/Heltondsm/analyse-ventes-ecommerce-sarima)**
-  *Sales forecasting using statistical modeling | Prévision de ventes avec modélisation statistique*
+---
 
-  🔹 **[Data Analyst Portfolio]** *(coming soon)*
-  
+### Domaines d'interet
 
-  ---
+Business Analytics - E-commerce Analytics - Sport Analytics
 
-  ### 🎯 Areas of Interest | Domaines d'intérêt
+---
 
-  Sports Analytics • Business Analytics
+### Contact
 
-  ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-dsm-data)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
 
-  ### 📫 Let's Connect | Restons en contact
+---
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-dsm-data)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
-
-  ---
-
-  💡 **2026/27 Goal:** Land a Junior Data Analyst position and leverage my skills for impactful projects.
-  *Objectif 2026/27 : Décrocher un poste de Data Analyst junior et mettre mes compétences au service de projets à impact.*
-
+**Objectif 2026/27** : Decrocher un poste de Data Analyst junior et mettre mes competences au service de projets a impact.
