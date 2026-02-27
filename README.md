@@ -1,48 +1,42 @@
-# Salut, c'est Helton
+# Helton Dos Santos Moreira
 
-## Data Analyst en formation | 10 ans Business & E-commerce
+**Data Analyst en formation | 10 ans de terrain en Business & E-commerce**
 
-Apres 10 ans dans le business (retail, e-commerce, management), je me specialise en **Data Analytics** pour transformer les donnees en decisions strategiques.
-
----
-
-### Actuellement
-
-- **Bachelor Data Analytics** @ OpenClassrooms (RNCP Niveau 6, 13 projets pratiques)
-- **3/13 projets valides** : P1 ✅ P2 ✅ P3 ✅ | P4 en cours (etude sante publique FAO, Python)
-- En apprentissage : **Python, SQL, Power BI**
+Je ne suis pas un junior classique. Apres 10 ans a piloter des equipes, gerer des P&L et optimiser des tunnels de conversion e-commerce, je mets cette experience au service de la data.
 
 ---
 
-### Competences
+### Ce que je sais faire
 
-**Maitrisees :**
-- Google Analytics (4 ans d'utilisation quotidienne)
-- Excel avance (tableaux croises, formules, macros)
-- SQL (requetes, jointures, agregations)
-- Reporting & KPIs
-- E-commerce Analytics
+**Operationnel aujourd'hui :**
+- **SQL** : jointures, agregations, sous-requetes, modelisation relationnelle
+- **Excel** : tableaux croises dynamiques, reporting automatise, analyse de cohortes
+- **Google Analytics** : 4 ans d'utilisation quotidienne (acquisition, conversion, attribution)
+- **Python** : Pandas, NumPy, Matplotlib, Seaborn, nettoyage de donnees
 
-**En formation :**
-- Python (Pandas, NumPy, Matplotlib)
-- Power BI
-- Machine Learning (a venir)
+**Ce que 10 ans de business m'ont appris :**
+- Traduire un besoin metier en question data
+- Presenter des resultats a des decideurs non-techniques
+- Piloter des KPIs avec impact direct sur le CA
 
 ---
 
 ### Projets
 
-| Projet | Description | Technos |
-|--------|-------------|---------|
-| [E-commerce Sales Analysis (SARIMA)](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima) | Prevision de ventes avec modelisation statistique | Python, Statsmodels |
-| [SQL Assurances Habitation](https://github.com/Heltondsm/sql-assurances-habitation) | Analyse BDD assurances, requetes SQL avancees | SQL, SQLite |
-| P4 - Etude FAO *(en cours)* | Analyse sous-nutrition mondiale 2013-2017 | Python, Pandas, Matplotlib |
+| Projet | Ce que j'ai fait | Stack |
+|--------|-------------------|-------|
+| [Prevision de ventes e-commerce (SARIMA)](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima) | Modelisation statistique pour anticiper les ventes mensuelles d'un site e-commerce | Python, Statsmodels, Matplotlib |
+| [Exploration SQL d'un portefeuille assurances](https://github.com/Heltondsm/sql-assurances-habitation) | Extraction d'indicateurs cles sur 50 000+ contrats via requetes SQL complexes | SQL, SQLite, modelisation relationnelle |
+| [Analyse de performance e-commerce](https://github.com/Heltondsm/analyse-ventes-ecommerce) | Rapport mensuel de CA, analyse de rentabilite clients affilies, recommandations | Excel avance, TCD, KPIs marketing |
+| Etude mondiale de la sous-nutrition (FAO) | Analyse de 4 datasets ONU (15 000+ lignes) sur la faim dans le monde | Python, Pandas, NumPy, Matplotlib |
 
 ---
 
-### Domaines d'interet
+### Parcours
 
-Business Analytics - E-commerce Analytics - Sport Analytics
+- **Entrepreneur E-commerce** (2022-present) : 10 sites Shopify, Google Analytics, Google Ads
+- **Directeur adjoint HUBSIDE** (2023-2024) : Management de 8 personnes, dashboards, pilotage KPIs
+- **Consultant technique BRICOMAN** (2019-2022) : Vente B2B, reporting commercial
 
 ---
 
@@ -50,7 +44,3 @@ Business Analytics - E-commerce Analytics - Sport Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-dsm-data)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
-
----
-
-**Objectif 2026/27** : Decrocher un poste de Data Analyst junior et mettre mes competences au service de projets a impact.
