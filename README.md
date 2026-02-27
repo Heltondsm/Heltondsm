@@ -27,8 +27,8 @@ Je ne suis pas un junior classique. Apres 10 ans a piloter des equipes, gerer de
 |--------|-------------------|-------|
 | [Prevision de ventes e-commerce (SARIMA)](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima) | Modelisation statistique pour anticiper les ventes mensuelles d'un site e-commerce | Python, Statsmodels, Matplotlib |
 | [Exploration SQL d'un portefeuille assurances](https://github.com/Heltondsm/sql-assurances-habitation) | Extraction d'indicateurs cles sur 50 000+ contrats via requetes SQL complexes | SQL, SQLite, modelisation relationnelle |
-| [Analyse de performance e-commerce](https://github.com/Heltondsm/analyse-ventes-ecommerce) | Rapport mensuel de CA, analyse de rentabilite clients affilies, recommandations | Excel avance, TCD, KPIs marketing |
-| Etude mondiale de la sous-nutrition (FAO) | Analyse de 4 datasets ONU (15 000+ lignes) sur la faim dans le monde | Python, Pandas, NumPy, Matplotlib |
+| Analyse de performance e-commerce *(repo a venir)* | Rapport mensuel de CA, analyse de rentabilite clients affilies, recommandations | Excel avance, TCD, KPIs marketing |
+| Etude mondiale de la sous-nutrition (FAO) *(en cours)* | Analyse de 4 datasets ONU (15 000+ lignes) sur la faim dans le monde | Python, Pandas, NumPy, Matplotlib |
 
 ---
 
