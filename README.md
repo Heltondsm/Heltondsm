@@ -31,11 +31,11 @@ Je ne suis pas un junior classique. Apres 10 ans a piloter des equipes, gerer de
 **[Exploration SQL d'un portefeuille assurances](https://github.com/Heltondsm/sql-assurances-habitation)** | `SQL` `SQLite`
 > 50 000+ contrats d'assurance habitation. Requetes complexes (jointures, agregations, sous-requetes) pour extraire les indicateurs cles demandes par le metier.
 
-**[Prevision de ventes e-commerce (SARIMA)](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)** | `Python` `Statsmodels`
-> Modelisation statistique pour anticiper les ventes mensuelles. Analyse de saisonnalite, decomposition de serie temporelle, previsions.
-
 **Etude mondiale de la sous-nutrition (FAO/ONU)** | `Python` `Pandas` `Matplotlib` | *en cours*
 > 4 datasets ONU, 15 000+ lignes, 5 ans de donnees. Nettoyage, transformations et visualisations pour identifier les pays les plus touches par la faim dans le monde.
+
+**[Prevision de ventes e-commerce (SARIMA)](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)** | `Python` `Statsmodels`
+> Modelisation statistique pour anticiper les ventes mensuelles. Analyse de saisonnalite, decomposition de serie temporelle, previsions.
 
 ---
 
