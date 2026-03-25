@@ -25,8 +25,18 @@ helton = {
     "background" : "10 ans terrain → management, B2B, e-commerce",
     "formation"  : "Bachelor DA OpenClassrooms · RNCP niv.6 · déc 2026",
     "stack"      : ["SQL", "Python", "Power BI", "Google Analytics"],
+    "fun_fact"   : "J'avais déjà Google Analytics ouvert chaque matin avant de savoir ce qu'était un DA",
 }
 ```
+
+---
+
+## 🔥 En ce moment
+
+- 📚 **P6 Power BI** — visualisation & storytelling data en cours
+- 🗄️ **SQL avancé** — modélisation relationnelle, BDD SQLite avec 34 000+ enregistrements
+- 🐍 **Python** — Pandas, NumPy, Seaborn, séries temporelles SARIMA
+- 🎯 **Prochain objectif** — PL-300 Microsoft Power BI (sept 2026)
 
 ---
 
@@ -102,6 +112,33 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 ![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
 
 Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saisonnalité, décomposition de série temporelle, prévisions SARIMA avec intervalles de confiance.
+
+---
+
+## 📊 Stats GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Heltondsm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heltondsm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=5" />
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Heltondsm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true)](https://github.com/Heltondsm)
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heltondsm/Heltondsm/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heltondsm/Heltondsm/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Heltondsm/Heltondsm/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</picture>
+</div>
 
 ---
 
