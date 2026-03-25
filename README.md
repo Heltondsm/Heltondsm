@@ -1,54 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:312e81&height=200&section=header&text=Helton%20Dos%20Santos%20Moreira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%2010%20ans%20Business%20%E2%86%92%20Data&descAlignY=58&descSize=17&descColor=a5b4fc" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Google+Analytics;Analytics+Engineer+en+construction+(dbt+%2B+BigQuery);Je+construis+les+pipelines+%E2%80%94+et+je+sais+pourquoi.;Business+%2B+Data+%3D+le+profil+que+les+scale-ups+cherchent." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:312e81&height=220&section=header&text=Helton%20Dos%20Santos%20Moreira&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%2010%20ans%20Business%20%E2%86%92%20Data&descAlignY=60&descSize=16&descColor=a5b4fc" width="100%" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Heltondsm&color=6366f1&style=for-the-badge&label=PROFIL+VU)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Google+Analytics;Analytics+Engineer+en+construction+%E2%80%94+dbt+%2B+BigQuery;Je+construis+les+pipelines+ET+je+sais+pourquoi+ils+existent.;Business+%2B+Data+%3D+le+profil+rare+que+les+scale-ups+cherchent." alt="Typing" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-dsm-data)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)](#-je-cherche)
+[![Email](https://img.shields.io/badge/heltonmail8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Alternance%202027-10b981?style=for-the-badge)](mailto:heltonmail8@gmail.com)
 
 </div>
 
----
-
-<div align="center">
-
-| 🗓️ Formation | 🏆 Expérience | 📍 Localisation | 🎯 Objectif |
-|:---:|:---:|:---:|:---:|
-| Bachelor DA — OC (déc 2026) | 10 ans Business & E-commerce | Limeil-Brévannes (94) | Analytics Engineer 2027 |
-
-</div>
+<br/>
 
 ---
 
-## 🧭 Qui je suis
+## 🧭 Profil
 
-\`\`\`python
+```python
 helton = {
-    "profil"     : "Data Analyst — pas un junior classique",
-    "background" : "10 ans terrain (management, B2B, e-commerce)",
-    "formation"  : "Bachelor DA OpenClassrooms RNCP niv.6 (déc 2026)",
-    "stack"      : ["SQL", "Python", "Power BI", "Google Analytics"],
-    "en_cours"   : ["dbt", "BigQuery", "Azure AZ-900", "PL-300"],
-    "objectif"   : "Analytics Engineer — startups IA & scale-ups",
-    "atout"      : "Je construis les pipelines ET je sais pourquoi ils existent",
+    "titre"      : "Data Analyst — pas un junior classique",
+    "background" : "10 ans terrain → management, B2B, e-commerce",
+    "formation"  : "Bachelor DA OpenClassrooms · RNCP niv.6 · déc 2026",
+    "stack_now"  : ["SQL", "Python", "Power BI", "Google Analytics"],
+    "stack_2026" : ["dbt", "BigQuery", "Azure AZ-900", "PL-300"],
+    "cible"      : "Analytics Engineer · startups IA · scale-ups IDF",
+    "valeur"     : "Je construis les pipelines ET sais expliquer leur valeur métier",
 }
-\`\`\`
+```
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Stack
 
 <div align="center">
 
-**Langages**
+**Langages & Analyse**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Data & Visualisation**
 
@@ -64,7 +58,7 @@ helton = {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🚀 En construction (2026)**
+**🚀 En construction — 2026**
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
@@ -83,54 +77,42 @@ helton = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Heltondsm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heltondsm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Heltondsm&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=6b7280" />
-
-</div>
-
----
-
-## 🏆 Trophées
-
-<div align="center">
-
-[![Trophées](https://github-profile-trophy.vercel.app/?username=Heltondsm&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Graphe d'activité
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Heltondsm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🗂️ Projets
 
-<div align="center">
+### 🛒 [Analyse de performance e-commerce](https://github.com/Heltondsm/analyse-ventes-ecommerce)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![KPIs](https://img.shields.io/badge/KPIs-6366f1?style=flat-square)
+![Storytelling](https://img.shields.io/badge/Storytelling-10b981?style=flat-square)
 
-| Projet | Stack | Description |
-|---|---|---|
-| 🛒 [Analyse e-commerce](https://github.com/Heltondsm/analyse-ventes-ecommerce) | `Excel` `KPIs` | Trafic ×30, conversion 5%, 2 profils clients identifiés |
-| 🏠 [Portefeuille assurances SQL](https://github.com/Heltondsm/sql-assurances-habitation) | `SQL` `SQLite` | 50 000+ contrats, requêtes complexes métier |
-| 🌍 [Sous-nutrition mondiale FAO](https://github.com/Heltondsm/etude-sante-publique-fao) | `Python` `Pandas` | 528M personnes, 4 datasets, 11 analyses |
-| 📈 [Prévision ventes SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima) | `Python` `Statsmodels` | Saisonnalité, décomposition, prévisions |
-| 🏢 [BDD Immobilière](https://github.com/Heltondsm/laplace-immo-sql) | `SQL` `SQLite` | 29 740 biens, 34 151 ventes, 17 régions |
+Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux de conversion à 5% (vs 3% marché), identification de 2 profils clients distincts, recommandation d'un axe de monétisation présenté à la direction.
 
-</div>
+---
+
+### 🏠 [Exploration SQL — Portefeuille assurances](https://github.com/Heltondsm/sql-assurances-habitation)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
+
+50 000+ contrats d'assurance habitation. Requêtes complexes (jointures, agrégations, sous-requêtes, vues) pour extraire les indicateurs clés demandés par le métier.
+
+---
+
+### 🌍 [Analyse sous-nutrition mondiale — FAO](https://github.com/Heltondsm/etude-sante-publique-fao)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+
+528M personnes sous-alimentées malgré une production mondiale suffisante pour 94% de la population. 4 datasets FAO, 11 analyses, conclusion actionnable : le problème n'est pas la quantité produite, c'est la distribution.
+
+---
+
+### 📈 [Prévision de ventes e-commerce — SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=flat-square)
+![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
+
+Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saisonnalité, décomposition de série temporelle, prévisions SARIMA avec intervalles de confiance.
 
 ---
 
@@ -138,43 +120,29 @@ helton = {
 
 <div align="center">
 
-| Période | Rôle | Compétences data |
+| Période | Rôle | Impact data |
 |:---:|---|---|
-| **2022 – présent** | Entrepreneur E-commerce — 10 sites Shopify | Google Analytics, Google Ads, KPIs conversion |
-| **2022 – 2024** | Directeur adjoint HUBSIDE | Dashboards, KPIs, management 8 personnes |
-| **2020 – 2022** | Consultant technique BRICOMAN (Groupe ADEO) | Reporting B2B, analyse commerciale |
+| 2022 – présent | **Entrepreneur E-commerce** · 10 sites Shopify | Google Analytics quotidien, Google Ads, optimisation tunnels de conversion |
+| 2022 – 2024 | **Directeur adjoint HUBSIDE** | Dashboards de pilotage, KPIs CA/équipe, management 8 personnes |
+| 2020 – 2022 | **Consultant technique BRICOMAN** · Groupe ADEO | Reporting commercial B2B, analyse de performance |
 
 </div>
 
 ---
 
-## 🎯 Je cherche
+## 🎯 Ce que je cherche
 
-> **Alternance Analytics Engineer / Data Analyst — rentrée sept 2027**
-> Contrat de professionnalisation · IDF ou remote partiel · 44-52k€
+**Alternance Analytics Engineer ou Data Analyst confirmé — rentrée sept 2027**
+Contrat de professionnalisation · Île-de-France · 44–52k€
 
-Je ne suis pas un DA qui lit des dashboards. Je construis l'infrastructure data qui permet aux équipes de prendre de meilleures décisions — et je sais expliquer la valeur métier derrière chaque pipeline.
+La majorité des candidats Analytics Engineer savent construire un pipeline dbt.
+**Peu savent expliquer au CEO pourquoi ce pipeline a de la valeur.**
+C'est ce que 10 ans de terrain apportent.
 
-📩 **[heltonmail8@gmail.com](mailto:heltonmail8@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/helton-dsm-data)**
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heltondsm/Heltondsm/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heltondsm/Heltondsm/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Heltondsm/Heltondsm/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</picture>
-
-</div>
+📩 [heltonmail8@gmail.com](mailto:heltonmail8@gmail.com) · [linkedin.com/in/helton-dsm-data](https://www.linkedin.com/in/helton-dsm-data)
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0d1117&height=120&section=footer" width="100%" />
-
 </div>
