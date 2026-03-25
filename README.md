@@ -4,13 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Google+Analytics;Analytics+Engineer+en+construction+%E2%80%94+dbt+%2B+BigQuery;Je+construis+les+pipelines+ET+je+sais+pourquoi+ils+existent.;Business+%2B+Data+%3D+le+profil+rare+que+les+scale-ups+cherchent." alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Google+Analytics;10+ans+Business+%26+E-commerce+%E2%86%92+Data;Formation+Data+Analyst+%C2%B7+OpenClassrooms+%C2%B7+d%C3%A9c+2026" alt="Typing" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-dsm-data)
 [![Email](https://img.shields.io/badge/heltonmail8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Alternance%202027-10b981?style=for-the-badge)](mailto:heltonmail8@gmail.com)
+
 
 </div>
 
@@ -22,13 +22,9 @@
 
 ```python
 helton = {
-    "titre"      : "Data Analyst — pas un junior classique",
     "background" : "10 ans terrain → management, B2B, e-commerce",
     "formation"  : "Bachelor DA OpenClassrooms · RNCP niv.6 · déc 2026",
-    "stack_now"  : ["SQL", "Python", "Power BI", "Google Analytics"],
-    "stack_2026" : ["dbt", "BigQuery", "Azure AZ-900", "PL-300"],
-    "cible"      : "Analytics Engineer · startups IA · scale-ups IDF",
-    "valeur"     : "Je construis les pipelines ET sais expliquer leur valeur métier",
+    "stack"      : ["SQL", "Python", "Power BI", "Google Analytics"],
 }
 ```
 
@@ -58,13 +54,6 @@ helton = {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🚀 En construction — 2026**
-
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **Environnement**
 
@@ -84,7 +73,7 @@ helton = {
 ![KPIs](https://img.shields.io/badge/KPIs-6366f1?style=flat-square)
 ![Storytelling](https://img.shields.io/badge/Storytelling-10b981?style=flat-square)
 
-Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux de conversion à 5% (vs 3% marché), identification de 2 profils clients distincts, recommandation d'un axe de monétisation présenté à la direction.
+Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux de conversion à 5% (vs 3% marché), identification de 2 profils clients distincts, recommandations présentées à la direction.
 
 ---
 
@@ -130,18 +119,6 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 
 ---
 
-## 🎯 Ce que je cherche
-
-**Alternance Analytics Engineer ou Data Analyst confirmé — rentrée sept 2027**
-Contrat de professionnalisation · Île-de-France · 44–52k€
-
-La majorité des candidats Analytics Engineer savent construire un pipeline dbt.
-**Peu savent expliquer au CEO pourquoi ce pipeline a de la valeur.**
-C'est ce que 10 ans de terrain apportent.
-
-📩 [heltonmail8@gmail.com](mailto:heltonmail8@gmail.com) · [linkedin.com/in/helton-dsm-data](https://www.linkedin.com/in/helton-dsm-data)
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0d1117&height=120&section=footer" width="100%" />
