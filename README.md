@@ -1,40 +1,36 @@
 <div align="center">
 
-<h1>👋 Helton Dos Santos Moreira</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,24&height=220&section=header&text=Helton%20Dos%20Santos%20Moreira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20en%20formation%20%E2%80%94%20OpenClassrooms%202025%E2%80%932026&descAlignY=58&descSize=15&descColor=c4b5fd" width="100%"/>
 
-<p>
-  <strong>Data Analyst en formation</strong> &nbsp;·&nbsp; OpenClassrooms 2025–2026<br/>
-  10 ans de terrain en Business & E-commerce → Data
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1400&color=a5b4fc&center=true&vCenter=true&width=600&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Google+Analytics;E-commerce+%7C+Retail+%7C+B2B+%E2%86%92+Data;Je+comprends+les+donn%C3%A9es+parce+que+j%27ai+v%C3%A9cu+les+probl%C3%A8mes+m%C3%A9tier." alt="Typing" />
+</div>
 
 <br/>
+
+<div align="center">
+
+```
+  📊  9 725 jours à lire des chiffres sans savoir que ça s'appelait de la data
+  👥  8 personnes managées avec des dashboards Excel faits maison
+  🛒  10 sites e-commerce pilotés via Google Analytics tous les matins
+  💡  1 réalisation : j'ai toujours été un data guy — je m'appelais juste "directeur adjoint"
+
+  Ce GitHub, c'est l'après.
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1400&color=a5b4fc&center=true&vCenter=true&width=620&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Google+Analytics;E-commerce+%7C+Retail+%7C+B2B+%E2%86%92+Data;La+reconversion+la+plus+logique+du+monde%2C+en+y+repensant." alt="Typing" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-dsm-data)
 [![Email](https://img.shields.io/badge/heltonmail8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
 
 </div>
-
----
-
-## 🧭 Mon parcours en bref
-
-Avant d'apprendre à faire du SQL, j'avais déjà passé 10 ans à **lire des chiffres, piloter des équipes et optimiser des tunnels de conversion** — sans forcément savoir que ça s'appelait de la data.
-
-Chez HUBSIDE, je construisais des dashboards Excel pour suivre les KPIs de 8 personnes. Chez BRICOMAN, j'analysais les performances B2B pour les présenter à ma direction. Sur mes 10 sites Shopify, je lisais Google Analytics tous les matins.
-
-À un moment j'ai réalisé que c'était la partie qui m'intéressait le plus. Alors j'ai décidé de la faire proprement.
-
-```python
-helton = {
-    # La reconversion la plus logique du monde, en y repensant
-    "avant"      : "Directeur adjoint | Consultant B2B | E-commerçant",
-    "maintenant" : "Data Analyst en formation — OpenClassrooms (déc 2026)",
-    "stack"      : ["SQL", "Python", "Power BI", "Google Analytics"],
-    "avantage"   : "Je comprends les données ET les problèmes business derrière",
-}
-```
 
 ---
 
@@ -78,15 +74,15 @@ helton = {
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![KPIs](https://img.shields.io/badge/KPIs-6366f1?style=flat-square)
 
-Un site pivote sa stratégie marketing. Je mesure l'impact réel : trafic ×30, conversion à **5%** (vs 3% marché), deux profils clients identifiés, recommandation présentée à la direction.
+Un site pivote sa stratégie marketing en cours de route. Je mesure ce que ça a vraiment changé : trafic **×30**, conversion à **5%** (vs 3% sur le marché), deux profils clients distincts identifiés. Résultats présentés à la direction sous forme de recommandation actionnables.
 
 ---
 
-### 🏠 [Exploration SQL — Portefeuille assurances](https://github.com/Heltondsm/sql-assurances-habitation)
+### 🏠 [Exploration SQL — Portefeuille assurances habitation](https://github.com/Heltondsm/sql-assurances-habitation)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**50 000+ contrats** d'assurance habitation. Jointures, agrégations, sous-requêtes, vues — pour répondre aux questions que le métier se pose vraiment.
+**50 000+ contrats** à explorer. Jointures, agrégations, sous-requêtes, vues — pour répondre aux vraies questions que le métier se pose, pas juste "combien de lignes dans la table".
 
 ---
 
@@ -95,15 +91,15 @@ Un site pivote sa stratégie marketing. Je mesure l'impact réel : trafic ×30, 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
-**528M personnes** sous-alimentées alors que la production mondiale couvre 94% des besoins. 4 datasets FAO, 11 analyses. Conclusion contre-intuitive : ce n'est pas un problème de production — c'est un problème de distribution.
+**528 millions de personnes** sous-alimentées alors que la production mondiale couvre 94% des besoins. 4 datasets FAO, 11 analyses. Conclusion contre-intuitive : ce n'est pas un problème de production. C'est un problème de distribution.
 
 ---
 
-### 📈 [Prévision de ventes e-commerce — SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
+### 📈 [Prévision de ventes — Modèle SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=flat-square)
 
-Décomposition de série temporelle, analyse de saisonnalité, modèle SARIMA avec intervalles de confiance. Anticiper les ventes, pas juste les constater.
+Anticiper les ventes, pas juste les constater. Décomposition de série temporelle, analyse de saisonnalité, modèle SARIMA avec intervalles de confiance.
 
 ---
 
@@ -115,12 +111,14 @@ Décomposition de série temporelle, analyse de saisonnalité, modèle SARIMA av
 |:---:|---|
 | 2022 – présent | **Entrepreneur E-commerce** — 10 sites Shopify · Google Analytics · Google Ads |
 | 2022 – 2024 | **Directeur adjoint HUBSIDE** — dashboards · KPIs · management 8 personnes |
-| 2020 – 2022 | **Consultant technique BRICOMAN** (Groupe ADEO) — reporting B2B · analyse commerciale |
+| 2020 – 2022 | **Consultant technique BRICOMAN** (Groupe ADEO) — reporting B2B |
 
 </div>
 
 ---
 
 <div align="center">
-<sub>En formation · Bachelor Data Analyst · OpenClassrooms · déc 2026</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,24&height=120&section=footer" width="100%"/>
+
 </div>
