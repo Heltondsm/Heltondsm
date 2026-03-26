@@ -19,7 +19,7 @@
 
 ---
 
-Après **10 ans à diriger des équipes et piloter des P&L**, je construis des analyses qui aident les décideurs à comprendre leurs données — pas juste à les lire.
+Après **10 ans à diriger des équipes, piloter des KPIs et gérer des performances e-commerce**, je construis des analyses qui aident les décideurs à comprendre leurs données — pas juste à les lire.
 
 ---
 
