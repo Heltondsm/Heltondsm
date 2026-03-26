@@ -25,22 +25,11 @@
 
 ## 🧭 Profil
 
-<div align="center">
+**10 ans à piloter des équipes, gérer des P&L et optimiser des tunnels de conversion e-commerce.**
 
-**10 ans à piloter des équipes, gérer des P&L et optimiser des funnels e-commerce.**
-Aujourd'hui, je mets cette expérience au service de la data.
+Ce que ça change concrètement : je traduis un besoin métier en question data, je construis l'analyse — et je sais expliquer les résultats à ceux qui décident.
 
-Je traduis un besoin métier en question data — je construis l'analyse, je présente les résultats.
-
-<br/>
-
-![](https://img.shields.io/badge/Bachelor_Data_Analyst-OpenClassrooms_·_RNCP_niv.6_·_déc_2026-6366f1?style=for-the-badge)
-
-<br/>
-
-*"J'avais déjà Google Analytics ouvert chaque matin avant de savoir ce qu'était un DA."*
-
-</div>
+> *"J'avais déjà Google Analytics ouvert chaque matin avant de savoir ce qu'était un DA."*
 
 ---
 
