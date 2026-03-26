@@ -44,41 +44,6 @@ helton = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
-  <sub><b>Python</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>
-  <sub><b>SQL</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>
-  <sub><b>Pandas</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/>
-  <sub><b>NumPy</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/>
-  <sub><b>Jupyter</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
-  <sub><b>Git</b></sub>
-</td>
-<td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>
-  <sub><b>VSCode</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -142,24 +107,6 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 | 2022 – présent | **Entrepreneur E-commerce** · 10 sites Shopify | Google Analytics quotidien, Google Ads, optimisation tunnels de conversion |
 | 2022 – 2024 | **Directeur adjoint HUBSIDE** | Dashboards de pilotage, KPIs CA/équipe, management 8 personnes |
 | 2020 – 2022 | **Consultant technique BRICOMAN** · Groupe ADEO | Reporting commercial B2B, analyse de performance |
-
-</div>
-
----
-
-## 📈 Activité GitHub
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Heltondsm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&area_color=6366f1)](https://github.com/Heltondsm)
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg"/>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
-</picture>
 
 </div>
 
