@@ -30,36 +30,11 @@ helton = {
     "background" : "10 ans terrain → management, B2B, e-commerce",
     "formation"  : "Bachelor DA OpenClassrooms · RNCP niv.6 · déc 2026",
     "stack"      : ["SQL", "Python", "Power BI", "Google Analytics"],
+    "focus"      : ["Power BI — DAX & storytelling", "SQL — 34k+ enregistrements", "Python — SARIMA · Seaborn"],
+    "next"       : "Certification PL-300 Microsoft Power BI",
     "fun_fact"   : "J'avais déjà Google Analytics ouvert chaque matin avant de savoir ce qu'était un DA",
 }
 ```
-
----
-
-## 🔥 En ce moment
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>📊 Power BI</h3>
-Visualisation avancée<br/>Storytelling data<br/>DAX · Modèles relationnels
-</td>
-<td align="center" width="33%">
-<h3>🗄️ SQL</h3>
-Architecture BDD<br/>34 000+ enregistrements<br/>Jointures · Agrégations · Vues
-</td>
-<td align="center" width="33%">
-<h3>🐍 Python</h3>
-Pandas · NumPy · Seaborn<br/>Séries temporelles<br/>SARIMA · Matplotlib
-</td>
-</tr>
-</table>
-
-🎯 **Prochaine étape :** Certification **PL-300 Microsoft Power BI**
-
-</div>
 
 ---
 
