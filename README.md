@@ -19,7 +19,7 @@
 
 ---
 
-Après **10 ans à diriger des équipes, piloter des KPIs et gérer des performances e-commerce**, je construis des analyses qui aident les décideurs à comprendre leurs données — pas juste à les lire.
+Après **10 ans de terrain** — management, e-commerce, pilotage de KPIs — je me forme aujourd'hui à la data. Ce vécu business change ma façon d'analyser : je comprends ce que les chiffres doivent résoudre avant même d'ouvrir un notebook.
 
 ---
 
