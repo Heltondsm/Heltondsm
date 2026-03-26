@@ -118,9 +118,10 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 
 <div align="center">
 
-| 🗄️ **50 000+** | 🌍 **528 millions** | 📐 **11 analyses** | 🛒 **10 sites** |
-|:---:|:---:|:---:|:---:|
-| contrats SQL traités | personnes étudiées (FAO) | sur 4 datasets publics | e-commerce pilotés |
+![](https://img.shields.io/badge/50_000%2B-contrats_SQL_analysés-6366f1?style=for-the-badge)
+![](https://img.shields.io/badge/528_millions-personnes_étudiées_(FAO)-10b981?style=for-the-badge)
+![](https://img.shields.io/badge/11_analyses-4_datasets_publics-f59e0b?style=for-the-badge)
+![](https://img.shields.io/badge/10_sites-e--commerce_pilotés-3b82f6?style=for-the-badge)
 
 </div>
 
