@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-dsm-data)
 [![Email](https://img.shields.io/badge/heltonmail8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=Heltondsm&color=6366f1&style=for-the-badge&label=VISITEURS)
 
 
 </div>
@@ -129,6 +130,19 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 
 ---
 
+## 📊 Quelques chiffres
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **50 000+** contrats analysés (SQL) | **528M** personnes étudiées (FAO) |
+| **4** datasets · **11** analyses | **10** sites e-commerce pilotés |
+
+</div>
+
+---
+
 ## 💼 Parcours
 
 <div align="center">
@@ -144,5 +158,10 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 ---
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0d1117&height=120&section=footer" width="100%" />
 </div>
