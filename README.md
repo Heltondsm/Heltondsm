@@ -100,7 +100,7 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 ---
 
 
-## 💼 Parcours
+## 💼 Parcours récent
 
 <div align="center">
 
