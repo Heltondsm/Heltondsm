@@ -26,13 +26,17 @@
 ## 🧭 Profil
 
 ```python
+# Pas un junior classique.
+# 10 ans à piloter des équipes, gérer des P&L, optimiser des tunnels de conversion.
+# Maintenant je mets tout ça au service de la data.
+
 helton = {
-    "background" : "10 ans terrain → management, B2B, e-commerce",
-    "formation"  : "Bachelor DA OpenClassrooms · RNCP niv.6 · déc 2026",
+    "background" : "management · B2B · e-commerce (10 ans terrain)",
+    "formation"  : "Bachelor DA · OpenClassrooms · RNCP niv.6 · déc 2026",
     "stack"      : ["SQL", "Python", "Power BI", "Google Analytics"],
     "focus"      : ["Power BI — DAX & storytelling", "SQL — 34k+ enregistrements", "Python — SARIMA · Seaborn"],
     "next"       : "Certification PL-300 Microsoft Power BI",
-    "fun_fact"   : "J'avais déjà Google Analytics ouvert chaque matin avant de savoir ce qu'était un DA",
+    "fun_fact"   : "J'avais GA ouvert chaque matin avant de savoir ce qu'était un DA",
 }
 ```
 
