@@ -130,14 +130,13 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 
 ---
 
-## 📊 Quelques chiffres
+## 📊 En chiffres
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| **50 000+** contrats analysés (SQL) | **528M** personnes étudiées (FAO) |
-| **4** datasets · **11** analyses | **10** sites e-commerce pilotés |
+| 🗄️ **50 000+** | 🌍 **528 millions** | 📐 **11 analyses** | 🛒 **10 sites** |
+|:---:|:---:|:---:|:---:|
+| contrats SQL traités | personnes étudiées (FAO) | sur 4 datasets publics | e-commerce pilotés |
 
 </div>
 
@@ -158,10 +157,6 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0d1117&height=120&section=footer" width="100%" />
 </div>
