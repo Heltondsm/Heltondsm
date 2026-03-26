@@ -19,17 +19,7 @@
 
 ---
 
-**Data Analyst en formation** · 10 ans Business & E-commerce · SQL · Python · Power BI
-
----
-
-## 🧭 Profil
-
-**10 ans à piloter des équipes, gérer des P&L et optimiser des tunnels de conversion e-commerce.**
-
-Ce que ça change concrètement : je traduis un besoin métier en question data, je construis l'analyse — et je sais expliquer les résultats à ceux qui décident.
-
-> *"J'avais déjà Google Analytics ouvert chaque matin avant de savoir ce qu'était un DA."*
+Après **10 ans à diriger des équipes et piloter des P&L**, je construis des analyses qui aident les décideurs à comprendre leurs données — pas juste à les lire.
 
 ---
 
