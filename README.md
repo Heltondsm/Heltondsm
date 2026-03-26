@@ -18,6 +18,10 @@
 
 ---
 
+**Data Analyst en formation** · 10 ans Business & E-commerce · SQL · Python · Power BI
+
+---
+
 ## 🧭 Profil
 
 ```python
