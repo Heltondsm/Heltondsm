@@ -25,14 +25,22 @@
 
 ## 🧭 Profil
 
-**10 ans de terrain** — management, B2B, e-commerce — maintenant au service de la data.
+<div align="center">
 
-Je traduis un besoin métier en question data, je construis l'analyse, j'explique les résultats à ceux qui décident.
+**10 ans à piloter des équipes, gérer des P&L et optimiser des funnels e-commerce.**
+Aujourd'hui, je mets cette expérience au service de la data.
 
-📚 Bachelor DA · OpenClassrooms · RNCP niv.6 · déc 2026
-🛠️ SQL · Python · Power BI · Google Analytics
+Je traduis un besoin métier en question data — je construis l'analyse, je présente les résultats.
 
-> *J'avais déjà Google Analytics ouvert chaque matin avant de savoir ce qu'était un DA.*
+<br/>
+
+![](https://img.shields.io/badge/Bachelor_Data_Analyst-OpenClassrooms_·_RNCP_niv.6_·_déc_2026-6366f1?style=for-the-badge)
+
+<br/>
+
+*"J'avais déjà Google Analytics ouvert chaque matin avant de savoir ce qu'était un DA."*
+
+</div>
 
 ---
 
