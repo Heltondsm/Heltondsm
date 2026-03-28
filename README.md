@@ -106,7 +106,7 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 
 | Période | Rôle | Impact data |
 |:---:|---|---|
-| 2022 – présent | **Entrepreneur E-commerce** · 10 sites Shopify | Google Analytics quotidien, Google Ads, optimisation tunnels de conversion |
+| 2022 – présent | **E-commerce & Data Analytics** · 10 boutiques Shopify | Pilotage data quotidien (taux de conversion, ROAS, CAC), Google Ads · Meta Ads · SEO |
 | 2022 – 2024 | **Directeur adjoint HUBSIDE** | Dashboards de pilotage, KPIs CA/équipe, management 8 personnes |
 | 2020 – 2022 | **Consultant technique BRICOMAN** · Groupe ADEO | Reporting commercial B2B, analyse de performance |
 
