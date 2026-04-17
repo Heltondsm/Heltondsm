@@ -90,6 +90,15 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 
 ---
 
+### 🍷 [Audit données catalogue — E-commerce vins](https://github.com/Heltondsm/python-audit-donnees-catalogue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+3 sources de données non synchronisées (ERP + catalogue WEB + table de liaison). 9 anomalies identifiées : prix négatifs, 88 produits en stock sans visibilité en ligne, 1 champagne vendu à -549% de marge, 276K€ immobilisés. Jointure triple, détection outliers IQR, Pareto 20/80 sur CA et quantités.
+
+---
+
 ### 📈 [Prévision de ventes e-commerce — SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=flat-square)
