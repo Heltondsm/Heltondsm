@@ -19,7 +19,7 @@
 
 ---
 
-Après **10 ans de terrain** — management, e-commerce, pilotage de KPIs — je me forme aujourd'hui à la data. Ce vécu business change ma façon d'analyser : je comprends ce que les chiffres doivent résoudre avant même d'ouvrir un notebook.
+Après **10 ans de terrain** (management, e-commerce, pilotage de KPIs), je me forme aujourd'hui à la data. Ce vécu business change ma façon d'analyser : je comprends ce que les chiffres doivent résoudre avant même d'ouvrir un notebook.
 
 ---
 
@@ -50,6 +50,12 @@ Après **10 ans de terrain** — management, e-commerce, pilotage de KPIs — je
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Data Engineering**
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+
 **Environnement**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -62,6 +68,16 @@ Après **10 ans de terrain** — management, e-commerce, pilotage de KPIs — je
 
 ## 🗂️ Projets
 
+### ⚙️ [Pipeline dbt : profils sociodémographiques](https://github.com/Heltondsm/dbt-demographics-pipeline)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Tests](https://img.shields.io/badge/26%20tests-10b981?style=flat-square)
+
+Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Data (4 647 inscriptions sur 4 ans). Modèles staging et marts, 26 tests, gestion des valeurs manquantes, croisement avec l'INSEE (taux pour 10 000 habitants). Conçu sur Snowflake, reproductible en local avec DuckDB en une seule commande.
+
+---
+
 ### 🛒 [Analyse de performance e-commerce](https://github.com/Heltondsm/analyse-ventes-ecommerce)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![KPIs](https://img.shields.io/badge/KPIs-6366f1?style=flat-square)
@@ -71,7 +87,7 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 
 ---
 
-### 🏠 [Exploration SQL — Portefeuille assurances](https://github.com/Heltondsm/sql-assurances-habitation)
+### 🏠 [Exploration SQL : Portefeuille assurances](https://github.com/Heltondsm/sql-assurances-habitation)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
@@ -80,7 +96,7 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 
 ---
 
-### 🌍 [Analyse sous-nutrition mondiale — FAO](https://github.com/Heltondsm/etude-sante-publique-fao)
+### 🌍 [Analyse sous-nutrition mondiale : FAO](https://github.com/Heltondsm/etude-sante-publique-fao)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
@@ -90,7 +106,7 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 
 ---
 
-### 🍷 [Audit données catalogue — E-commerce vins](https://github.com/Heltondsm/python-audit-donnees-catalogue)
+### 🍷 [Audit données catalogue : E-commerce vins](https://github.com/Heltondsm/python-audit-donnees-catalogue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
@@ -99,7 +115,7 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 
 ---
 
-### 📈 [Prévision de ventes e-commerce — SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
+### 📈 [Prévision de ventes e-commerce : SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=flat-square)
 ![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
