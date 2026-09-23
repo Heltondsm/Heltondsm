@@ -80,16 +80,6 @@ Je termine le Bachelor Data Analyst d'OpenClassrooms en décembre 2026. Disponib
 
 ## 🗂️ Projets
 
-### 🎵 [Tendances du streaming musical : tests statistiques et Prophet](https://github.com/Heltondsm/analyse-streaming-musical)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
-
-114 000 morceaux Spotify décrits avec de vrais tests (Spearman, Kruskal-Wallis, khi carré), conditions vérifiées et tailles d'effet à chaque fois. Puis une prévision Prophet de la Pop dans le Top 200 mondial, sur 9,8 millions de lignes de classements. Évalué sur 90 jours jamais vus, le modèle se fait battre par une moyenne des 7 derniers jours (erreur de 16,9 contre 5,0 morceaux par jour) : je l'explique et je le garde tel quel.
-
----
-
 ### ⚙️ [Pipeline dbt : profils sociodémographiques](https://github.com/Heltondsm/dbt-demographics-pipeline)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
@@ -97,25 +87,6 @@ Je termine le Bachelor Data Analyst d'OpenClassrooms en décembre 2026. Disponib
 ![Tests](https://img.shields.io/badge/26%20tests-10b981?style=flat-square)
 
 Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Data (4 647 inscriptions sur 4 ans). Modèles staging et marts, 26 tests, gestion des valeurs manquantes, croisement avec l'INSEE (taux pour 10 000 habitants). Conçu sur Snowflake, reproductible en local avec DuckDB en une seule commande.
-
----
-
-### 📊 [Tableau de bord Power BI : portefeuille de projets](https://github.com/Heltondsm/powerbi-portefeuille-projets-rls)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![RLS](https://img.shields.io/badge/Row--Level%20Security-3b82f6?style=flat-square)
-![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
-
-104 projets IT et Marketing dans 52 pays, lus par 3 niveaux de direction qui n'ont pas le droit de voir les mêmes lignes. Sécurité au niveau des lignes appliquée à la connexion, pas par un segment qu'on peut décocher. 16 mesures DAX, modèle en étoile à clé composite sur 7 tables, et deux seuils à deux niveaux : 15 % d'écart qualifie un projet, la part de projets en alerte qualifie un pays. La Phase D dérape de +401,3 % quand la pire des autres est à +19 % : un point isolé, pas une tendance.
-
----
-
-### 🍷 [Audit données catalogue : E-commerce vins](https://github.com/Heltondsm/python-audit-donnees-catalogue)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-3 sources de données non synchronisées (ERP + catalogue WEB + table de liaison). 9 anomalies identifiées : prix négatifs, 88 produits en stock sans visibilité en ligne, 1 champagne vendu à -549% de marge, 276K€ immobilisés. Jointure triple, détection outliers IQR, Pareto 20/80 sur CA et quantités.
 
 ---
 
@@ -129,12 +100,32 @@ Collecte hebdomadaire des offres data et des entreprises qui recrutent, via les 
 
 ---
 
-### 🛒 [Analyse de performance e-commerce](https://github.com/Heltondsm/analyse-ventes-ecommerce)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![KPIs](https://img.shields.io/badge/KPIs-6366f1?style=flat-square)
-![Storytelling](https://img.shields.io/badge/Storytelling-10b981?style=flat-square)
+### 📊 [Tableau de bord Power BI : portefeuille de projets](https://github.com/Heltondsm/powerbi-portefeuille-projets-rls)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![RLS](https://img.shields.io/badge/Row--Level%20Security-3b82f6?style=flat-square)
+![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
 
-Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux de conversion à 5% (vs 3% marché), identification de 2 profils clients distincts, recommandations présentées à la direction.
+104 projets IT et Marketing dans 52 pays, lus par 3 niveaux de direction qui n'ont pas le droit de voir les mêmes lignes. Sécurité au niveau des lignes appliquée à la connexion, pas par un segment qu'on peut décocher. 16 mesures DAX, modèle en étoile à clé composite sur 7 tables, et deux seuils à deux niveaux : 15 % d'écart qualifie un projet, la part de projets en alerte qualifie un pays. La Phase D dérape de +401,3 % quand la pire des autres est à +19 % : un point isolé, pas une tendance.
+
+---
+
+### 🎵 [Tendances du streaming musical : tests statistiques et Prophet](https://github.com/Heltondsm/analyse-streaming-musical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
+
+114 000 morceaux Spotify décrits avec de vrais tests (Spearman, Kruskal-Wallis, khi carré), conditions vérifiées et tailles d'effet à chaque fois. Puis une prévision Prophet de la Pop dans le Top 200 mondial, sur 9,8 millions de lignes de classements. Évalué sur 90 jours jamais vus, le modèle se fait battre par une moyenne des 7 derniers jours (erreur de 16,9 contre 5,0 morceaux par jour) : je l'explique et je le garde tel quel.
+
+---
+
+### 🍷 [Audit données catalogue : E-commerce vins](https://github.com/Heltondsm/python-audit-donnees-catalogue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+3 sources de données non synchronisées (ERP + catalogue WEB + table de liaison). 9 anomalies identifiées : prix négatifs, 88 produits en stock sans visibilité en ligne, 1 champagne vendu à -549% de marge, 276K€ immobilisés. Jointure triple, détection outliers IQR, Pareto 20/80 sur CA et quantités.
 
 ---
 
@@ -144,6 +135,15 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 ![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
 
 50 000+ contrats d'assurance habitation. Requêtes complexes (jointures, agrégations, sous-requêtes, vues) pour extraire les indicateurs clés demandés par le métier.
+
+---
+
+### 📈 [Prévision de ventes e-commerce : SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=flat-square)
+![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
+
+Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saisonnalité, décomposition de série temporelle, prévisions SARIMA avec intervalles de confiance.
 
 ---
 
@@ -157,12 +157,12 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 
 ---
 
-### 📈 [Prévision de ventes e-commerce : SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=flat-square)
-![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
+### 🛒 [Analyse de performance e-commerce](https://github.com/Heltondsm/analyse-ventes-ecommerce)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![KPIs](https://img.shields.io/badge/KPIs-6366f1?style=flat-square)
+![Storytelling](https://img.shields.io/badge/Storytelling-10b981?style=flat-square)
 
-Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saisonnalité, décomposition de série temporelle, prévisions SARIMA avec intervalles de confiance.
+Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux de conversion à 5% (vs 3% marché), identification de 2 profils clients distincts, recommandations présentées à la direction.
 
 ---
 
