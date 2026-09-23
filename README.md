@@ -100,6 +100,16 @@ Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Da
 
 ---
 
+### 📊 [Tableau de bord Power BI : portefeuille de projets](https://github.com/Heltondsm/powerbi-portefeuille-projets-rls)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![RLS](https://img.shields.io/badge/Row--Level%20Security-3b82f6?style=flat-square)
+![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
+
+104 projets IT et Marketing dans 52 pays, lus par 3 niveaux de direction qui n'ont pas le droit de voir les mêmes lignes. Sécurité au niveau des lignes appliquée à la connexion, pas par un segment qu'on peut décocher. 16 mesures DAX, modèle en étoile à clé composite sur 7 tables, et deux seuils à deux niveaux : 15 % d'écart qualifie un projet, la part de projets en alerte qualifie un pays. La Phase D dérape de +401,3 % quand la pire des autres est à +19 % : un point isolé, pas une tendance.
+
+---
+
 ### 🍷 [Audit données catalogue : E-commerce vins](https://github.com/Heltondsm/python-audit-donnees-catalogue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
