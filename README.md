@@ -110,6 +110,16 @@ Collecte hebdomadaire des offres data et des entreprises qui recrutent, via les 
 
 ---
 
+### 💧 [Tableau de bord Power BI : aide à la décision sur l'eau potable](https://github.com/Heltondsm/powerbi-aide-decision-eau-potable)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-2ea44f?style=flat-square&logo=microsoft&logoColor=white)
+![Accessibilité](https://img.shields.io/badge/Accessibilit%C3%A9-3b82f6?style=flat-square)
+
+Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'action ? 5 fichiers OMS et FAO nettoyés dans Power Query (jointure à 99 %), modèle en étoile, 3 vues du monde jusqu'au pays. Un curseur de stabilité politique filtre en direct la carte et les 3 nuages de points : à -1, la recommandation change, et c'est au bailleur de dire quel risque il accepte. Indicateur d'efficacité construit en DAX, moyennes pondérées par la population, 66 ms de calcul en moyenne.
+
+---
+
 ### 🎵 [Tendances du streaming musical : tests statistiques et Prophet](https://github.com/Heltondsm/analyse-streaming-musical)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
