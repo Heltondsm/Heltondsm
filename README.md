@@ -19,9 +19,9 @@
 
 ---
 
-Je travaille les deux bouts de la chaîne : je construis les pipelines qui ramènent la donnée, et je produis les analyses qui la rendent utile.
+Avant la data, j'ai piloté des boutiques en ligne au coût d'acquisition et suivi une équipe de vente sur ses indicateurs, avec des tableaux de bord Excel que je construisais moi-même.
 
-Avant la data, **10 ans en retail et e-commerce** : j'ai piloté des équipes, géré des stocks, suivi des CA. Je comprends les enjeux métier avant même d'ouvrir un notebook.
+Aujourd'hui, je fais ce travail avec **SQL, Python, dbt et Power BI** : un tableau de bord qui alerte chaque direction sur ses projets en dérive dans 52 pays, un audit de catalogue qui a repéré une erreur de prix à -549 %, un pipeline dbt couvert par 26 tests automatisés.
 
 Je termine le Bachelor Data Analyst d'OpenClassrooms en décembre 2026. Disponible à partir de janvier 2027, en Île-de-France.
 
