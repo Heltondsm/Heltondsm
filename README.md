@@ -1,14 +1,21 @@
 <div align="center">
 
-# Helton Dos Santos Moreira
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:312e81&height=220&section=header&text=Helton%20Dos%20Santos%20Moreira&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%2F%20Data%20Engineer&descAlignY=60&descSize=16&descColor=a5b4fc" width="100%" />
 
-**Data Analyst · SQL · Python · Power BI · dbt · Île-de-France**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-heltondsm.github.io-376DAE?style=for-the-badge)](https://heltondsm.github.io/)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Python+%E2%80%A2+dbt+%E2%80%A2+Snowflake+%E2%80%A2+Power+BI;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helton-dsm-data)
 [![Email](https://img.shields.io/badge/heltonmail8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-heltondsm.github.io-312e81?style=for-the-badge)](https://heltondsm.github.io/)
+
 
 </div>
+
+<br/>
 
 ---
 
@@ -16,7 +23,7 @@ Avant la data, j'ai piloté des boutiques en ligne au coût d'acquisition et sui
 
 Aujourd'hui, je construis avec **SQL, Python, dbt et Power BI** les analyses et les tableaux de bord dont j'avais besoin à l'époque.
 
-Je termine le Bachelor Data Analyst d'OpenClassrooms (titre RNCP de niveau 6). Tous mes projets sont présentés sur mon portfolio : **[heltondsm.github.io](https://heltondsm.github.io/)**.
+Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-France. Tous mes projets sont présentés sur mon portfolio : **[heltondsm.github.io](https://heltondsm.github.io/)**.
 
 ---
 
@@ -97,7 +104,7 @@ Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salari
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![RLS](https://img.shields.io/badge/Row--Level%20Security-3b82f6?style=flat-square)
-![Modélisation](https://img.shields.io/badge/Mod%C3%A9lisation-6366f1?style=flat-square)
+![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
 
 104 projets IT et Marketing dans 52 pays, lus par 3 niveaux de direction qui n'ont pas le droit de voir les mêmes lignes. Sécurité au niveau des lignes appliquée à la connexion, pas par un segment qu'on peut décocher. 25 mesures DAX, un modèle de 7 tables relié par une clé composite, et deux seuils à deux niveaux : 15 % d'écart qualifie un projet, la part de projets en alerte qualifie un pays. La Phase D dérape de +401,3 % quand la pire des autres est à +19 % : un point isolé, pas une tendance.
 
@@ -117,7 +124,7 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Séries temporelles](https://img.shields.io/badge/S%C3%A9ries%20temporelles-6366f1?style=flat-square)
+![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
 
 114 000 morceaux Spotify décrits avec de vrais tests (Spearman, Kruskal-Wallis, khi carré), conditions vérifiées et tailles d'effet à chaque fois. Puis l'analyse de la Pop dans le Top 200 mondial, sur 9,8 millions de lignes de classements, avec une prévision validée sur 90 jours jamais vus. Résultat : un calendrier de sortie concret, décembre plutôt que septembre (86,7 contre 76,9 morceaux Pop par jour), et jamais le vendredi.
 
@@ -135,7 +142,7 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 ### 🏠 [Facteurs de tarification en assurance habitation : analyse SQL](https://github.com/Heltondsm/sql-assurances-habitation)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Modélisation](https://img.shields.io/badge/Mod%C3%A9lisation-6366f1?style=flat-square)
+![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
 
 Une base de 30 326 contrats conçue de A à Z (dictionnaire de données, schéma relationnel, SQLite), puis 12 requêtes métier. Près d'un contrat sur deux est en Île-de-France, et à Paris la cotisation est 2,3 fois plus élevée pour un logement plus petit : la localisation est le premier facteur de tarification.
 
@@ -144,7 +151,7 @@ Une base de 30 326 contrats conçue de A à Z (dictionnaire de données, schéma
 ### 📈 [Prévision de ventes e-commerce : SARIMA](https://github.com/Heltondsm/ecommerce-sales-analysis-sarima)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=flat-square)
-![Séries temporelles](https://img.shields.io/badge/S%C3%A9ries%20temporelles-6366f1?style=flat-square)
+![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
 
 Quatre ans de ventes analysées, puis un modèle SARIMA choisi parmi 64 combinaisons pour prévoir les ventes des jours suivants, avec intervalles de confiance. La technologie fait 36,6 % du chiffre d'affaires, les particuliers plus de la moitié.
 
@@ -182,3 +189,9 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0d1117&height=120&section=footer" width="100%" />
+</div>
