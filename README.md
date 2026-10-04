@@ -21,7 +21,7 @@
 
 Avant la data, j'ai piloté des boutiques en ligne au coût d'acquisition et suivi une équipe de vente sur ses indicateurs, avec des tableaux de bord Excel que je construisais moi-même.
 
-Aujourd'hui, je fais ce travail avec **SQL, Python, dbt et Power BI** : un tableau de bord qui alerte chaque direction sur ses projets en dérive dans 52 pays, un audit de catalogue qui a repéré une erreur de prix à -549 %, un pipeline dbt couvert par 26 tests automatisés.
+Aujourd'hui, je construis avec **SQL, Python, dbt et Power BI** les analyses et les tableaux de bord dont j'avais besoin à l'époque.
 
 Je termine le Bachelor Data Analyst d'OpenClassrooms en décembre 2026. Disponible à partir de janvier 2027, en Île-de-France.
 
