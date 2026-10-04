@@ -96,7 +96,7 @@ Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Da
 ![ETL](https://img.shields.io/badge/ETL-6366f1?style=flat-square)
 ![Automatisation](https://img.shields.io/badge/Automatisation-10b981?style=flat-square)
 
-Collecte hebdomadaire des offres data et des entreprises qui recrutent, via les APIs France Travail (OAuth2) et INSEE Sirene. 14 recherches métier, déduplication, classification automatique par famille de postes : environ 700 offres et 1 100 entreprises par passage, en 11 secondes. Chaque source est isolée pour qu'une API en panne n'arrête pas le reste, relances automatiques, et aucune dépendance externe.
+Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salariés et plus, via les APIs France Travail (OAuth2) et INSEE Sirene. 14 recherches métier, déduplication, classification automatique par famille de postes : 787 offres et 1 135 entreprises au dernier passage, en 14 secondes. Chaque source est isolée pour qu'une API en panne n'arrête pas le reste, relances automatiques, et aucune dépendance externe.
 
 ---
 
@@ -106,7 +106,7 @@ Collecte hebdomadaire des offres data et des entreprises qui recrutent, via les 
 ![RLS](https://img.shields.io/badge/Row--Level%20Security-3b82f6?style=flat-square)
 ![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
 
-104 projets IT et Marketing dans 52 pays, lus par 3 niveaux de direction qui n'ont pas le droit de voir les mêmes lignes. Sécurité au niveau des lignes appliquée à la connexion, pas par un segment qu'on peut décocher. 16 mesures DAX, modèle en étoile à clé composite sur 7 tables, et deux seuils à deux niveaux : 15 % d'écart qualifie un projet, la part de projets en alerte qualifie un pays. La Phase D dérape de +401,3 % quand la pire des autres est à +19 % : un point isolé, pas une tendance.
+104 projets IT et Marketing dans 52 pays, lus par 3 niveaux de direction qui n'ont pas le droit de voir les mêmes lignes. Sécurité au niveau des lignes appliquée à la connexion, pas par un segment qu'on peut décocher. 25 mesures DAX, un modèle de 7 tables relié par une clé composite, et deux seuils à deux niveaux : 15 % d'écart qualifie un projet, la part de projets en alerte qualifie un pays. La Phase D dérape de +401,3 % quand la pire des autres est à +19 % : un point isolé, pas une tendance.
 
 ---
 
@@ -116,7 +116,7 @@ Collecte hebdomadaire des offres data et des entreprises qui recrutent, via les 
 ![Power Query](https://img.shields.io/badge/Power%20Query-2ea44f?style=flat-square&logo=microsoft&logoColor=white)
 ![Accessibilité](https://img.shields.io/badge/Accessibilit%C3%A9-3b82f6?style=flat-square)
 
-Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'action ? 5 fichiers OMS et FAO nettoyés dans Power Query (jointure à 99 %), modèle en étoile, 3 vues du monde jusqu'au pays. Un curseur de stabilité politique filtre en direct la carte et les 3 nuages de points : à -1, la recommandation change, et c'est au bailleur de dire quel risque il accepte. Indicateur d'efficacité construit en DAX, moyennes pondérées par la population, 66 ms de calcul en moyenne.
+Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'action ? 5 fichiers OMS et FAO nettoyés dans Power Query (jointure à 99 %), un schéma en constellation, 3 vues du monde jusqu'au pays. Un curseur de stabilité politique filtre en direct la carte et les 3 nuages de points : à -1, la recommandation change, et c'est au bailleur de dire quel risque il accepte. Indicateur d'efficacité construit en DAX, moyennes pondérées par la population, 66 ms de calcul en moyenne.
 
 ---
 
@@ -126,7 +126,7 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
 
-114 000 morceaux Spotify décrits avec de vrais tests (Spearman, Kruskal-Wallis, khi carré), conditions vérifiées et tailles d'effet à chaque fois. Puis une prévision Prophet de la Pop dans le Top 200 mondial, sur 9,8 millions de lignes de classements. Évalué sur 90 jours jamais vus, le modèle se fait battre par une moyenne des 7 derniers jours (erreur de 16,9 contre 5,0 morceaux par jour) : je l'explique et je le garde tel quel.
+114 000 morceaux Spotify décrits avec de vrais tests (Spearman, Kruskal-Wallis, khi carré), conditions vérifiées et tailles d'effet à chaque fois. Puis l'analyse de la Pop dans le Top 200 mondial, sur 9,8 millions de lignes de classements, avec une prévision validée sur 90 jours jamais vus. Résultat : un calendrier de sortie concret, décembre plutôt que septembre (86,7 contre 76,9 morceaux Pop par jour), et jamais le vendredi.
 
 ---
 
@@ -135,16 +135,16 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-3 sources de données non synchronisées (ERP + catalogue WEB + table de liaison). 9 anomalies identifiées : prix négatifs, 88 produits en stock sans visibilité en ligne, 1 champagne vendu à -549% de marge, 276 859 € immobilisés. Jointure triple, détection outliers IQR, Pareto 20/80 sur CA et quantités.
+3 sources de données non synchronisées (ERP + catalogue WEB + table de liaison). 9 anomalies identifiées : prix négatifs, 88 produits en stock sans visibilité en ligne, 1 champagne vendu à -549% de marge, 276 859 € immobilisés. Jointure triple, détection des valeurs aberrantes (IQR), et les 419 références qui font 80 % du chiffre d'affaires identifiées.
 
 ---
 
-### 🏠 [Exploration SQL : Portefeuille assurances](https://github.com/Heltondsm/sql-assurances-habitation)
+### 🏠 [SQL : ce qui fait le prix d'une assurance habitation](https://github.com/Heltondsm/sql-assurances-habitation)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
 
-50 000+ contrats d'assurance habitation. Requêtes complexes (jointures, agrégations, sous-requêtes, vues) pour extraire les indicateurs clés demandés par le métier.
+Une base de 30 326 contrats conçue de A à Z (dictionnaire de données, schéma relationnel, SQLite), puis 12 requêtes métier. Près d'un contrat sur deux est en Île-de-France, et à Paris la cotisation est 2,3 fois plus élevée pour un logement plus petit : c'est l'adresse qui fait le prix.
 
 ---
 
@@ -153,7 +153,7 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=flat-square)
 ![Séries temporelles](https://img.shields.io/badge/Séries%20temporelles-6366f1?style=flat-square)
 
-Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saisonnalité, décomposition de série temporelle, prévisions SARIMA avec intervalles de confiance.
+Quatre ans de ventes analysées, puis un modèle SARIMA choisi parmi 64 combinaisons pour prévoir les ventes des jours suivants, avec intervalles de confiance. La technologie fait 36,6 % du chiffre d'affaires, les particuliers plus de la moitié.
 
 ---
 
@@ -163,7 +163,7 @@ Modélisation statistique pour anticiper les ventes mensuelles. Analyse de saiso
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
-528M personnes sous-alimentées malgré une production mondiale suffisante pour 94% de la population. 4 datasets FAO, 11 analyses, conclusion actionnable : le problème n'est pas la quantité produite, c'est la distribution.
+528 millions de personnes sous-alimentées, alors que la production mondiale suffit à nourrir 94,3 % de la population. 4 jeux de données FAO croisés, et une conclusion nette : la faim est un problème de répartition, pas de quantité.
 
 ---
 
