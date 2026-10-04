@@ -100,7 +100,7 @@ Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salari
 
 ---
 
-### 📊 [Tableau de bord Power BI : portefeuille de projets](https://github.com/Heltondsm/powerbi-portefeuille-projets-rls)
+### 📊 [Power BI : pilotage d'un portefeuille de 104 projets](https://github.com/Heltondsm/powerbi-portefeuille-projets-rls)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![RLS](https://img.shields.io/badge/Row--Level%20Security-3b82f6?style=flat-square)
@@ -110,7 +110,7 @@ Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salari
 
 ---
 
-### 💧 [Tableau de bord Power BI : aide à la décision sur l'eau potable](https://github.com/Heltondsm/powerbi-aide-decision-eau-potable)
+### 💧 [Power BI : aide à la décision pour une ONG de l'eau potable](https://github.com/Heltondsm/powerbi-aide-decision-eau-potable)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-2ea44f?style=flat-square&logo=microsoft&logoColor=white)
@@ -120,7 +120,7 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 
 ---
 
-### 🎵 [Tendances du streaming musical : tests statistiques et Prophet](https://github.com/Heltondsm/analyse-streaming-musical)
+### 🎵 [Catalogue musical : statistiques et calendrier de sortie](https://github.com/Heltondsm/analyse-streaming-musical)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat-square&logo=meta&logoColor=white)
@@ -130,7 +130,7 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 
 ---
 
-### 🍷 [Audit données catalogue : E-commerce vins](https://github.com/Heltondsm/python-audit-donnees-catalogue)
+### 🍷 [Audit de la qualité des données d'un catalogue e-commerce](https://github.com/Heltondsm/python-audit-donnees-catalogue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
@@ -139,12 +139,12 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 
 ---
 
-### 🏠 [SQL : ce qui fait le prix d'une assurance habitation](https://github.com/Heltondsm/sql-assurances-habitation)
+### 🏠 [Facteurs de tarification en assurance habitation : analyse SQL](https://github.com/Heltondsm/sql-assurances-habitation)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Modélisation](https://img.shields.io/badge/Modélisation-6366f1?style=flat-square)
 
-Une base de 30 326 contrats conçue de A à Z (dictionnaire de données, schéma relationnel, SQLite), puis 12 requêtes métier. Près d'un contrat sur deux est en Île-de-France, et à Paris la cotisation est 2,3 fois plus élevée pour un logement plus petit : c'est l'adresse qui fait le prix.
+Une base de 30 326 contrats conçue de A à Z (dictionnaire de données, schéma relationnel, SQLite), puis 12 requêtes métier. Près d'un contrat sur deux est en Île-de-France, et à Paris la cotisation est 2,3 fois plus élevée pour un logement plus petit : la localisation est le premier facteur de tarification.
 
 ---
 
@@ -157,7 +157,7 @@ Quatre ans de ventes analysées, puis un modèle SARIMA choisi parmi 64 combinai
 
 ---
 
-### 🌍 [Analyse sous-nutrition mondiale : FAO](https://github.com/Heltondsm/etude-sante-publique-fao)
+### 🌍 [Sous-nutrition mondiale : analyse des données FAO](https://github.com/Heltondsm/etude-sante-publique-fao)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
@@ -167,7 +167,7 @@ Quatre ans de ventes analysées, puis un modèle SARIMA choisi parmi 64 combinai
 
 ---
 
-### 🛒 [Analyse de performance e-commerce](https://github.com/Heltondsm/analyse-ventes-ecommerce)
+### 🛒 [Repositionnement d'un e-commerce : mesure de l'impact](https://github.com/Heltondsm/analyse-ventes-ecommerce)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![KPIs](https://img.shields.io/badge/KPIs-6366f1?style=flat-square)
 ![Storytelling](https://img.shields.io/badge/Storytelling-10b981?style=flat-square)
