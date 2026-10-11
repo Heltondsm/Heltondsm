@@ -36,54 +36,40 @@ Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-Fran
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWljcm9zb2Z0IEV4Y2VsPC90aXRsZT48cGF0aCBkPSJNMjMgMS41cS40MSAwIC43LjMuMy4yOS4zLjd2MTlxMCAuNDEtLjMuNy0uMjkuMy0uNy4zSDdxLS40MSAwLS43LS4zLS4zLS4yOS0uMy0uN1YxOEgxcS0uNDEgMC0uNy0uMy0uMy0uMjktLjMtLjdWN3EwLS40MS4zLS43US41OCA2IDEgNmg1VjIuNXEwLS40MS4zLS43LjI5LS4zLjctLjN6TTYgMTMuMjhsMS40MiAyLjY2aDIuMTRsLTIuMzgtMy44NyAyLjM0LTMuOEg3LjQ2bC0xLjMgMi40LS4wNS4wOC0uMDQuMDktLjY0LTEuMjgtLjY2LTEuMjlIMi41OWwyLjI3IDMuODItMi40OCAzLjg1aDIuMTZ6TTE0LjI1IDIxdi0zSDcuNXYzem0wLTQuNXYtMy43NUgxMnYzLjc1em0wLTUuMjVWNy41SDEydjMuNzV6bTAtNS4yNVYzSDcuNXYzem04LjI1IDE1di0zaC02Ljc1djN6bTAtNC41di0zLjc1aC02Ljc1djMuNzV6bTAtNS4yNVY3LjVoLTYuNzV2My43NXptMC01LjI1VjNoLTYuNzV2M1oiLz48L3N2Zz4=)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Data visualisation et BI**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UG93ZXIgQkk8L3RpdGxlPjxwYXRoIGQ9Ik0xMCAxMmExIDEgMCAwIDEgMSAxdjExSDRhMSAxIDAgMCAxLTEtMVYxM2ExIDEgMCAwIDEgMS0xaDZabS0yLS41VjdhMSAxIDAgMCAxIDEtMWg2YTEgMSAwIDAgMSAxIDF2MTdoLTQuNVYxM2ExLjUgMS41IDAgMCAwLTEuNS0xLjVIOFptNS02VjFhMSAxIDAgMCAxIDEtMWg2YTEgMSAwIDAgMSAxIDF2MjJhMSAxIDAgMCAxLTEgMWgtMy41VjdBMS41IDEuNSAwIDAgMCAxNSA1LjVoLTJaIi8+PC9zdmc+)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-2ea44f?style=for-the-badge)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white)
 
 **Analyse et statistiques**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Bases de données et cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 **Transformation et pipelines**
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+ZGJ0PC90aXRsZT48cGF0aCBkPSJNMTcuOTAwNCA5LjM3NjNhOC4xNDg4IDguMTQ4OCAwIDAgMC0zLjA0MjEtMy4xMjA2bDEuNzcwOC44Mzg1YTEwLjI4NzQgMTAuMjg3NCAwIDAgMSAzLjc0IDMuMDAwN2wzLjIzNC01LjkyOTVhMi44NTQ2IDIuODU0NiAwIDAgMC0uMDYxMS0yLjk2MDRDMjIuNzU2Ni4wMzcxIDIxLjIxMTItLjM0MDkgMTkuOTc1NC4zMzI3bC01Ljg3NDkgMy4yMTAxYTQuMzYxMiA0LjM2MTIgMCAwIDEtNC4xNzYxIDBMNC4xNzY5LjQwOGEyLjg1NDUgMi44NTQ1IDAgMCAwLTIuOTU5Mi4wNjMyYy0xLjE2NzMuNzg1My0xLjU0NTIgMi4zMy0uODcyMyAzLjU2NTVMMy41NSA5LjkxMDZhNC4zNjEyIDQuMzYxMiAwIDAgMSAwIDQuMTc3MmwtMy4xMjcyIDUuNzQzYTIuODYgMi44NiAwIDAgMCAuMDg1IDIuOTk3NGMuNzk0IDEuMTQzOCAyLjMyMjUgMS41MDU0IDMuNTQ0OC44Mzg1bDYuMDU4MS0zLjMwNDlhMTAuMjg3NyAxMC4yODc3IDAgMCAxLTMuMDA1MS0zLjc0NTRsLS44Mzc0LTEuNzcwOGE4LjE0OCA4LjE0OCAwIDAgMCAzLjEyMDYgMy4wNDIxbDEwLjU4MzIgNS43NzljMS4yMjEzLjY2NiAyLjc0ODEuMzA1NSAzLjU0MjYtLjgzNjNhMi44Njk5IDIuODY5OSAwIDAgMCAuMDc5Ni0zLjAwMThMMTcuOTAwNCA5LjM3NjN6bTMuMzgwMS03LjczNTFjLjYwMjIgMCAxLjA5MDQuNDg4MiAxLjA5MDQgMS4wOTA0cy0uNDg4MiAxLjA5MDQtMS4wOTA0IDEuMDkwNC0xLjA5MDQtLjQ4ODItMS4wOTA0LTEuMDkwNC40ODgyLTEuMDkwNCAxLjA5MDQtMS4wOTA0ek0yLjc0NDIgMy44MjJjLS42MDIyIDAtMS4wOTA0LS40ODgyLTEuMDkwNC0xLjA5MDRzLjQ4ODItMS4wOTA0IDEuMDkwNC0xLjA5MDQgMS4wOTA0LjQ4ODIgMS4wOTA0IDEuMDkwNFMzLjM0NjQgMy44MjIgMi43NDQyIDMuODIyem0wIDE4LjUzNjNjLS42MDIyIDAtMS4wOTA0LS40ODgyLTEuMDkwNC0xLjA5MDQgMC0uNjAyMi40ODgyLTEuMDkwNCAxLjA5MDQtMS4wOTA0czEuMDkwNC40ODgyIDEuMDkwNCAxLjA5MDRjMCAuNjAyMi0uNDg4MiAxLjA5MDQtMS4wOTA0IDEuMDkwNHptMTAuMzU4NS0xMS40NDg5Yy0xLjIwMDgtLjAwMzUtMi4xNzcuOTY3Mi0yLjE4MDUgMi4xNjc5YTIuMTczOCAyLjE3MzggMCAwIDAgLjcwNTIgMS42MDkxYy0xLjQ4NzItLjIwOTEtMi41MjM0LTEuNTg0My0yLjMxNDItMy4wNzE2LjIwOTEtMS40ODcyIDEuNTg0My0yLjUyMzQgMy4wNzE2LTIuMzE0MmEyLjcxOTQgMi43MTk0IDAgMCAxIDIuMzE0MiAyLjMxNDIgMi4xNjIzIDIuMTYyMyAwIDAgMC0xLjU5NjMtLjcwNTR6bTguMTc3OCAxMS40NDg5Yy0uNjAyMiAwLTEuMDkwNC0uNDg4Mi0xLjA5MDQtMS4wOTA0IDAtLjYwMjIuNDg4Mi0xLjA5MDQgMS4wOTA0LTEuMDkwNHMxLjA5MDQuNDg4MiAxLjA5MDQgMS4wOTA0YzAgLjYwMjItLjQ4ODIgMS4wOTA0LTEuMDkwNCAxLjA5MDR6Ii8+PC9zdmc+)
 ![API REST](https://img.shields.io/badge/API%20REST-0f62fe?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL-6366f1?style=for-the-badge)
 
 **IA agentique et automatisation**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Agents IA (LLM)](https://img.shields.io/badge/Agents%20IA%20%28LLM%29-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![GitHub Actions (CI/CD)](https://img.shields.io/badge/GitHub%20Actions%20%28CI%2FCD%29-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
 
 **Environnement**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
