@@ -56,7 +56,7 @@ Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-Fran
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Bases de données et cloud**
 
