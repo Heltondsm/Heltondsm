@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:312e81&height=220&section=header&text=Helton%20Dos%20Santos%20Moreira&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%2F%20Data%20Engineer&descAlignY=60&descSize=16&descColor=a5b4fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:312e81&height=220&section=header&text=Helton%20Dos%20Santos%20Moreira&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst&descAlignY=60&descSize=16&descColor=a5b4fc" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Python+%E2%80%A2+dbt+%E2%80%A2+Snowflake+%E2%80%A2+Power+BI;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Agents+IA;Un+CRM+data+pilot%C3%A9+avec+des+agents+IA;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 
 Avant la data, j'ai piloté des boutiques en ligne au coût d'acquisition et suivi une équipe de vente sur ses indicateurs, avec des tableaux de bord Excel que je construisais moi-même.
 
-Aujourd'hui, je construis avec **SQL, Python, dbt et Power BI** les analyses et les tableaux de bord dont j'avais besoin à l'époque.
+Aujourd'hui, je construis avec **SQL, Power BI et Python** les analyses et les tableaux de bord dont j'avais besoin à l'époque, et je pilote des **agents IA** pour automatiser ce qui peut l'être.
 
 Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-France. Tous mes projets sont présentés sur mon portfolio : **[heltondsm.github.io](https://heltondsm.github.io/)**.
 
@@ -60,7 +60,7 @@ Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-Fran
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Data Engineering**
+**Transformation et pipelines**
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -86,6 +86,16 @@ Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-Fran
 
 ## 🗂️ Projets
 
+### 🤖 ⭐ [CRM data et agents IA : centraliser offres, contacts et échanges](https://github.com/Heltondsm/crm-data-agents-ia)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Agents IA](https://img.shields.io/badge/Agents%20IA-Claude-D97757?style=flat-square)
+
+Une base PostgreSQL alimentée par l'API LinkedIn et l'annuaire des entreprises. Le prévisible est en code Python planifié avec GitHub Actions (collecte, rapprochement des messages, alertes), l'IA seulement là où il faut lire du texte (noter les offres, classer les mails). 2 168 relations LinkedIn analysées, chaque échange rattaché à sa fiche, les entreprises sur une carte. Démo sur données fictives incluse.
+
+---
+
 ### 📊 [Power BI : pilotage d'un portefeuille de 104 projets](https://github.com/Heltondsm/powerbi-portefeuille-projets-rls)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -96,32 +106,12 @@ Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-Fran
 
 ---
 
-### 🤖 [CRM data et agents IA : centraliser offres, contacts et échanges](https://github.com/Heltondsm/crm-data-agents-ia)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Agents IA](https://img.shields.io/badge/Agents%20IA-Claude-D97757?style=flat-square)
-
-Une base PostgreSQL alimentée par l'API LinkedIn et l'annuaire des entreprises. Le prévisible est en code Python planifié avec GitHub Actions (collecte, rapprochement des messages, alertes), l'IA seulement là où il faut lire du texte (noter les offres, classer les mails). 2 168 relations LinkedIn analysées, chaque échange rattaché à sa fiche, les entreprises sur une carte. Démo sur données fictives incluse.
-
----
-
 ### 🍷 [Audit de la qualité des données d'un catalogue e-commerce](https://github.com/Heltondsm/python-audit-donnees-catalogue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 3 sources de données non synchronisées (ERP + catalogue WEB + table de liaison). 9 anomalies identifiées : prix négatifs, 88 produits en stock sans visibilité en ligne, 1 champagne vendu à -549% de marge, 276 859 € immobilisés. Jointure triple, détection des valeurs aberrantes (IQR), et les 419 références qui font 80 % du chiffre d'affaires identifiées.
-
----
-
-### ⚙️ [Pipeline dbt : profils sociodémographiques](https://github.com/Heltondsm/dbt-demographics-pipeline)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Tests](https://img.shields.io/badge/26%20tests-10b981?style=flat-square)
-
-Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Data (4 647 inscriptions sur 4 ans). Modèles staging et marts, 26 tests, gestion des valeurs manquantes, croisement avec l'INSEE (taux pour 10 000 habitants). Conçu sur Snowflake, reproductible en local avec DuckDB en une seule commande.
 
 ---
 
@@ -135,16 +125,6 @@ Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Da
 
 ---
 
-### 📡 [Pipeline de veille du marché de l'emploi](https://github.com/Heltondsm/job-market-pipeline)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![API REST](https://img.shields.io/badge/API%20REST-0f62fe?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL-6366f1?style=flat-square)
-![Automatisation](https://img.shields.io/badge/Automatisation-10b981?style=flat-square)
-
-Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salariés et plus, via les APIs France Travail (OAuth2) et INSEE Sirene. 14 recherches métier, déduplication, classification automatique par famille de postes : 787 offres et 1 135 entreprises au dernier passage, en 14 secondes. Chaque source est isolée pour qu'une API en panne n'arrête pas le reste, relances automatiques, et aucune dépendance externe.
-
----
-
 ### 💧 [Power BI : aide à la décision pour une ONG de l'eau potable](https://github.com/Heltondsm/powerbi-aide-decision-eau-potable)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -152,6 +132,26 @@ Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salari
 ![Accessibilité](https://img.shields.io/badge/Accessibilit%C3%A9-3b82f6?style=flat-square)
 
 Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'action ? 5 fichiers OMS et FAO nettoyés dans Power Query (jointure à 99 %), un schéma en constellation, 3 vues du monde jusqu'au pays. Un curseur de stabilité politique filtre en direct la carte et les 3 nuages de points : à -1, la recommandation change, et c'est au bailleur de dire quel risque il accepte. Indicateur d'efficacité construit en DAX, moyennes pondérées par la population, 66 ms de calcul en moyenne.
+
+---
+
+### ⚙️ [Pipeline dbt : profils sociodémographiques](https://github.com/Heltondsm/dbt-demographics-pipeline)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Tests](https://img.shields.io/badge/26%20tests-10b981?style=flat-square)
+
+Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Data (4 647 inscriptions sur 4 ans). Modèles staging et marts, 26 tests, gestion des valeurs manquantes, croisement avec l'INSEE (taux pour 10 000 habitants). Conçu sur Snowflake, reproductible en local avec DuckDB en une seule commande.
+
+---
+
+### 📡 [Pipeline de veille du marché de l'emploi](https://github.com/Heltondsm/job-market-pipeline)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-0f62fe?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-6366f1?style=flat-square)
+![Automatisation](https://img.shields.io/badge/Automatisation-10b981?style=flat-square)
+
+Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salariés et plus, via les APIs France Travail (OAuth2) et INSEE Sirene. 14 recherches métier, déduplication, classification automatique par famille de postes : 787 offres et 1 135 entreprises au dernier passage, en 14 secondes. Chaque source est isolée pour qu'une API en panne n'arrête pas le reste, relances automatiques, et aucune dépendance externe.
 
 ---
 
