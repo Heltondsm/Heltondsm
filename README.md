@@ -92,7 +92,7 @@ Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-Fran
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Agents IA](https://img.shields.io/badge/Agents%20IA-Claude-D97757?style=flat-square)
 
-Une base PostgreSQL alimentée par l'API LinkedIn et l'annuaire des entreprises. Le prévisible est en code Python planifié avec GitHub Actions (collecte, rapprochement des messages, alertes), l'IA seulement là où il faut lire du texte (noter les offres, classer les mails). 2 168 relations LinkedIn analysées, chaque échange rattaché à sa fiche, les entreprises sur une carte. Démo sur données fictives incluse.
+Une base PostgreSQL alimentée par l'API LinkedIn et l'annuaire des entreprises. Le prévisible est en code Python planifié avec GitHub Actions (collecte, rapprochement des messages, alertes), l'IA seulement là où il faut lire du texte (noter les offres, classer les mails). 745 relations LinkedIn analysées, chaque échange rattaché à sa fiche, les entreprises sur une carte. Démo sur données fictives incluse.
 
 ---
 
