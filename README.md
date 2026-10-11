@@ -68,6 +68,12 @@ Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-Fran
 ![API REST](https://img.shields.io/badge/API%20REST-0f62fe?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-6366f1?style=for-the-badge)
 
+**IA et automatisation**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge)
+
 **Environnement**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -80,26 +86,6 @@ Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-Fran
 
 ## 🗂️ Projets
 
-### ⚙️ [Pipeline dbt : profils sociodémographiques](https://github.com/Heltondsm/dbt-demographics-pipeline)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Tests](https://img.shields.io/badge/26%20tests-10b981?style=flat-square)
-
-Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Data (4 647 inscriptions sur 4 ans). Modèles staging et marts, 26 tests, gestion des valeurs manquantes, croisement avec l'INSEE (taux pour 10 000 habitants). Conçu sur Snowflake, reproductible en local avec DuckDB en une seule commande.
-
----
-
-### 📡 [Pipeline de veille du marché de l'emploi](https://github.com/Heltondsm/job-market-pipeline)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![API REST](https://img.shields.io/badge/API%20REST-0f62fe?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL-6366f1?style=flat-square)
-![Automatisation](https://img.shields.io/badge/Automatisation-10b981?style=flat-square)
-
-Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salariés et plus, via les APIs France Travail (OAuth2) et INSEE Sirene. 14 recherches métier, déduplication, classification automatique par famille de postes : 787 offres et 1 135 entreprises au dernier passage, en 14 secondes. Chaque source est isolée pour qu'une API en panne n'arrête pas le reste, relances automatiques, et aucune dépendance externe.
-
----
-
 ### 📊 [Power BI : pilotage d'un portefeuille de 104 projets](https://github.com/Heltondsm/powerbi-portefeuille-projets-rls)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -110,13 +96,32 @@ Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salari
 
 ---
 
-### 💧 [Power BI : aide à la décision pour une ONG de l'eau potable](https://github.com/Heltondsm/powerbi-aide-decision-eau-potable)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-2ea44f?style=flat-square&logo=microsoft&logoColor=white)
-![Accessibilité](https://img.shields.io/badge/Accessibilit%C3%A9-3b82f6?style=flat-square)
+### 🤖 [CRM data et agents IA : centraliser offres, contacts et échanges](https://github.com/Heltondsm/crm-data-agents-ia)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Agents IA](https://img.shields.io/badge/Agents%20IA-Claude-D97757?style=flat-square)
 
-Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'action ? 5 fichiers OMS et FAO nettoyés dans Power Query (jointure à 99 %), un schéma en constellation, 3 vues du monde jusqu'au pays. Un curseur de stabilité politique filtre en direct la carte et les 3 nuages de points : à -1, la recommandation change, et c'est au bailleur de dire quel risque il accepte. Indicateur d'efficacité construit en DAX, moyennes pondérées par la population, 66 ms de calcul en moyenne.
+Une base PostgreSQL alimentée par l'API LinkedIn et l'annuaire des entreprises. Le prévisible est en code Python planifié avec GitHub Actions (collecte, rapprochement des messages, alertes), l'IA seulement là où il faut lire du texte (noter les offres, classer les mails). 2 168 relations LinkedIn analysées, chaque échange rattaché à sa fiche, les entreprises sur une carte. Démo sur données fictives incluse.
+
+---
+
+### 🍷 [Audit de la qualité des données d'un catalogue e-commerce](https://github.com/Heltondsm/python-audit-donnees-catalogue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+3 sources de données non synchronisées (ERP + catalogue WEB + table de liaison). 9 anomalies identifiées : prix négatifs, 88 produits en stock sans visibilité en ligne, 1 champagne vendu à -549% de marge, 276 859 € immobilisés. Jointure triple, détection des valeurs aberrantes (IQR), et les 419 références qui font 80 % du chiffre d'affaires identifiées.
+
+---
+
+### ⚙️ [Pipeline dbt : profils sociodémographiques](https://github.com/Heltondsm/dbt-demographics-pipeline)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Tests](https://img.shields.io/badge/26%20tests-10b981?style=flat-square)
+
+Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Data (4 647 inscriptions sur 4 ans). Modèles staging et marts, 26 tests, gestion des valeurs manquantes, croisement avec l'INSEE (taux pour 10 000 habitants). Conçu sur Snowflake, reproductible en local avec DuckDB en une seule commande.
 
 ---
 
@@ -130,12 +135,23 @@ Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'a
 
 ---
 
-### 🍷 [Audit de la qualité des données d'un catalogue e-commerce](https://github.com/Heltondsm/python-audit-donnees-catalogue)
+### 📡 [Pipeline de veille du marché de l'emploi](https://github.com/Heltondsm/job-market-pipeline)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![API REST](https://img.shields.io/badge/API%20REST-0f62fe?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-6366f1?style=flat-square)
+![Automatisation](https://img.shields.io/badge/Automatisation-10b981?style=flat-square)
 
-3 sources de données non synchronisées (ERP + catalogue WEB + table de liaison). 9 anomalies identifiées : prix négatifs, 88 produits en stock sans visibilité en ligne, 1 champagne vendu à -549% de marge, 276 859 € immobilisés. Jointure triple, détection des valeurs aberrantes (IQR), et les 419 références qui font 80 % du chiffre d'affaires identifiées.
+Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salariés et plus, via les APIs France Travail (OAuth2) et INSEE Sirene. 14 recherches métier, déduplication, classification automatique par famille de postes : 787 offres et 1 135 entreprises au dernier passage, en 14 secondes. Chaque source est isolée pour qu'une API en panne n'arrête pas le reste, relances automatiques, et aucune dépendance externe.
+
+---
+
+### 💧 [Power BI : aide à la décision pour une ONG de l'eau potable](https://github.com/Heltondsm/powerbi-aide-decision-eau-potable)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-2ea44f?style=flat-square&logo=microsoft&logoColor=white)
+![Accessibilité](https://img.shields.io/badge/Accessibilit%C3%A9-3b82f6?style=flat-square)
+
+Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'action ? 5 fichiers OMS et FAO nettoyés dans Power Query (jointure à 99 %), un schéma en constellation, 3 vues du monde jusqu'au pays. Un curseur de stabilité politique filtre en direct la carte et les 3 nuages de points : à -1, la recommandation change, et c'est au bailleur de dire quel risque il accepte. Indicateur d'efficacité construit en DAX, moyennes pondérées par la population, 66 ms de calcul en moyenne.
 
 ---
 
