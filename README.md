@@ -19,9 +19,9 @@
 
 ---
 
-Avant la data, j'ai piloté des boutiques en ligne au coût d'acquisition et suivi une équipe de vente sur ses indicateurs, avec des tableaux de bord Excel que je construisais moi-même.
+**Data Analyst**, je crée des tableaux de bord, du reporting et des KPI en **SQL, Power BI, Python et Excel**.
 
-Aujourd'hui, je construis avec **SQL, Power BI et Python** les analyses et les tableaux de bord dont j'avais besoin à l'époque, et je pilote des **agents IA** pour automatiser ce qui peut l'être.
+Venu du commerce et de la relation client, je garantis la qualité des données et j'automatise les tâches avec des **agents IA**.
 
 Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-France. Tous mes projets sont présentés sur mon portfolio : **[heltondsm.github.io](https://heltondsm.github.io/)**.
 
@@ -192,9 +192,9 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 
 | Période | Rôle | Impact data |
 |:---:|---|---|
-| 01/2022 - 09/2026 | **E-commerce & Data Analytics** · indépendant, 10 boutiques Shopify | Suivi des performances sur Google Analytics 4, budget publicitaire arbitré chaque semaine sur le coût d'acquisition |
-| 09/2022 - 07/2024 | **Conseiller commercial, puis directeur adjoint** · HUBSIDE STORE | Tableau de bord hebdomadaire construit et automatisé sous Excel (TCD, Power Query), 8 vendeurs encadrés, promu en 5 mois |
-| 06/2019 - 09/2022 | **Consultant technique principal** · BRICOMAN, groupe ADEO | Données commerciales d'un portefeuille B2B du BTP exploitées pour détecter les ventes croisées |
+| 01/2022 - 09/2026 | **Responsable e-commerce, analyse et pilotage de la performance** · indépendant, 10 boutiques Shopify | Taux de conversion et panier moyen améliorés par des tests A/B suivis dans Google Analytics 4, budget marketing concentré chaque semaine sur les campagnes rentables (ROAS, CAC) |
+| 09/2022 - 07/2024 | **Conseiller commercial, puis directeur adjoint** · HUBSIDE STORE | Tableau de bord hebdomadaire automatisé sous Excel à partir d'extractions CRM, objectifs de 8 vendeurs fixés sur leurs indicateurs, reporting mensuel à la direction, promu en 5 mois |
+| 06/2019 - 09/2022 | **Consultant technique principal** · BRICOMAN, GROUPE ADEO | Opportunités de vente croisée détectées en analysant les données commerciales de clients B2B du BTP |
 
 </div>
 
