@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Agents+IA;Un+CRM+data+pilot%C3%A9+avec+des+agents+IA;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Agents+IA;Certifi%C3%A9+Dataiku+Core+et+Advanced+Designer;Un+CRM+data+pilot%C3%A9+avec+des+agents+IA;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
 
 <br/><br/>
 
@@ -23,7 +23,7 @@
 
 Venu du commerce et de la relation client, je garantis la qualité des données et j'automatise les tâches avec des **agents IA**.
 
-Je termine un Bachelor Data Analyst (Bac+3) chez OpenClassrooms, en Île-de-France. Tous mes projets sont présentés sur mon portfolio : **[heltondsm.github.io](https://heltondsm.github.io/)**.
+Certifié **Dataiku** (Core Designer et Advanced Designer). Tous mes projets sont détaillés sur mon portfolio, avec le contexte, la démarche et le résultat : **[heltondsm.github.io](https://heltondsm.github.io/)**.
 
 ---
 
