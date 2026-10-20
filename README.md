@@ -12,6 +12,9 @@
 [![Email](https://img.shields.io/badge/heltonmail8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heltonmail8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-heltondsm.github.io-312e81?style=for-the-badge)](https://heltondsm.github.io/)
 
+[![Dataiku Core Designer](https://img.shields.io/badge/%F0%9F%8E%93%20Dataiku-Core%20Designer-2AB1AC?style=for-the-badge)](https://verify.skilljar.com/c/nokssj7tigr5)
+[![Dataiku Advanced Designer](https://img.shields.io/badge/%F0%9F%8E%93%20Dataiku-Advanced%20Designer-2AB1AC?style=for-the-badge)](https://verify.skilljar.com/c/o7rjekahawpj)
+
 
 </div>
 
@@ -23,7 +26,7 @@
 
 Venu du commerce et de la relation client, je garantis la qualité des données et j'automatise les tâches avec des **agents IA**.
 
-Certifié **Dataiku** (Core Designer et Advanced Designer). Tous mes projets sont détaillés sur mon portfolio, avec le contexte, la démarche et le résultat : **[heltondsm.github.io](https://heltondsm.github.io/)**.
+Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Pour une vue d'ensemble, mon portfolio : **[heltondsm.github.io](https://heltondsm.github.io/)**.
 
 ---
 
