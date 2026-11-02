@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Agents+IA;Certifi%C3%A9+Dataiku+Core+et+Advanced+Designer;Un+CRM+data+pilot%C3%A9+avec+des+agents+IA;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Agents+IA;dbt+%E2%80%A2+BigQuery+%E2%80%A2+Airflow;Certifi%C3%A9+Dataiku+Core+et+Advanced+Designer;Un+CRM+data+pilot%C3%A9+avec+des+agents+IA;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
 
 <br/><br/>
 
@@ -57,10 +57,14 @@ Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Po
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 **Transformation et pipelines**
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+ZGJ0PC90aXRsZT48cGF0aCBkPSJNMTcuOTAwNCA5LjM3NjNhOC4xNDg4IDguMTQ4OCAwIDAgMC0zLjA0MjEtMy4xMjA2bDEuNzcwOC44Mzg1YTEwLjI4NzQgMTAuMjg3NCAwIDAgMSAzLjc0IDMuMDAwN2wzLjIzNC01LjkyOTVhMi44NTQ2IDIuODU0NiAwIDAgMC0uMDYxMS0yLjk2MDRDMjIuNzU2Ni4wMzcxIDIxLjIxMTItLjM0MDkgMTkuOTc1NC4zMzI3bC01Ljg3NDkgMy4yMTAxYTQuMzYxMiA0LjM2MTIgMCAwIDEtNC4xNzYxIDBMNC4xNzY5LjQwOGEyLjg1NDUgMi44NTQ1IDAgMCAwLTIuOTU5Mi4wNjMyYy0xLjE2NzMuNzg1My0xLjU0NTIgMi4zMy0uODcyMyAzLjU2NTVMMy41NSA5LjkxMDZhNC4zNjEyIDQuMzYxMiAwIDAgMSAwIDQuMTc3MmwtMy4xMjcyIDUuNzQzYTIuODYgMi44NiAwIDAgMCAuMDg1IDIuOTk3NGMuNzk0IDEuMTQzOCAyLjMyMjUgMS41MDU0IDMuNTQ0OC44Mzg1bDYuMDU4MS0zLjMwNDlhMTAuMjg3NyAxMC4yODc3IDAgMCAxLTMuMDA1MS0zLjc0NTRsLS44Mzc0LTEuNzcwOGE4LjE0OCA4LjE0OCAwIDAgMCAzLjEyMDYgMy4wNDIxbDEwLjU4MzIgNS43NzljMS4yMjEzLjY2NiAyLjc0ODEuMzA1NSAzLjU0MjYtLjgzNjNhMi44Njk5IDIuODY5OSAwIDAgMCAuMDc5Ni0zLjAwMThMMTcuOTAwNCA5LjM3NjN6bTMuMzgwMS03LjczNTFjLjYwMjIgMCAxLjA5MDQuNDg4MiAxLjA5MDQgMS4wOTA0cy0uNDg4MiAxLjA5MDQtMS4wOTA0IDEuMDkwNC0xLjA5MDQtLjQ4ODItMS4wOTA0LTEuMDkwNC40ODgyLTEuMDkwNCAxLjA5MDQtMS4wOTA0ek0yLjc0NDIgMy44MjJjLS42MDIyIDAtMS4wOTA0LS40ODgyLTEuMDkwNC0xLjA5MDRzLjQ4ODItMS4wOTA0IDEuMDkwNC0xLjA5MDQgMS4wOTA0LjQ4ODIgMS4wOTA0IDEuMDkwNFMzLjM0NjQgMy44MjIgMi43NDQyIDMuODIyem0wIDE4LjUzNjNjLS42MDIyIDAtMS4wOTA0LS40ODgyLTEuMDkwNC0xLjA5MDQgMC0uNjAyMi40ODgyLTEuMDkwNCAxLjA5MDQtMS4wOTA0czEuMDkwNC40ODgyIDEuMDkwNCAxLjA5MDRjMCAuNjAyMi0uNDg4MiAxLjA5MDQtMS4wOTA0IDEuMDkwNHptMTAuMzU4NS0xMS40NDg5Yy0xLjIwMDgtLjAwMzUtMi4xNzcuOTY3Mi0yLjE4MDUgMi4xNjc5YTIuMTczOCAyLjE3MzggMCAwIDAgLjcwNTIgMS42MDkxYy0xLjQ4NzItLjIwOTEtMi41MjM0LTEuNTg0My0yLjMxNDItMy4wNzE2LjIwOTEtMS40ODcyIDEuNTg0My0yLjUyMzQgMy4wNzE2LTIuMzE0MmEyLjcxOTQgMi43MTk0IDAgMCAxIDIuMzE0MiAyLjMxNDIgMi4xNjIzIDIuMTYyMyAwIDAgMC0xLjU5NjMtLjcwNTR6bTguMTc3OCAxMS40NDg5Yy0uNjAyMiAwLTEuMDkwNC0uNDg4Mi0xLjA5MDQtMS4wOTA0IDAtLjYwMjIuNDg4Mi0xLjA5MDQgMS4wOTA0LTEuMDkwNHMxLjA5MDQuNDg4MiAxLjA5MDQgMS4wOTA0YzAgLjYwMjItLjQ4ODIgMS4wOTA0LTEuMDkwNCAxLjA5MDR6Ii8+PC9zdmc+)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![API REST](https://img.shields.io/badge/API%20REST-0f62fe?style=for-the-badge)
 
 **IA agentique et automatisation**
@@ -89,6 +93,16 @@ Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Po
 ![IA agentique](https://img.shields.io/badge/IA%20agentique-9%20agents-D97757?style=flat-square)
 
 Une base PostgreSQL alimentée par l'API LinkedIn et l'annuaire des entreprises. Le prévisible est en code Python planifié avec GitHub Actions (collecte, rapprochement des messages, alertes), et 9 agents IA spécialisés seulement là où il faut lire du texte (noter les opportunités, trier les mails, préparer les relances). Chaque échange est rattaché automatiquement à sa fiche, les entreprises sur une carte. Démo sur données fictives incluse.
+
+---
+
+### 🧱 [Analytics Engineering : quels outils data enseigner, et où ?](https://github.com/Heltondsm/job-market-analytics)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Tests](https://img.shields.io/badge/32%20tests%20dbt-10b981?style=flat-square)
+
+Pour un organisme de formation data (fictif) qui choisit quels outils enseigner et où ouvrir des sessions : 2 110 offres France Travail chargées dans BigQuery par un DAG Airflow chaque lundi, modélisées avec dbt (modèle en étoile, une table par question) et contrôlées par 32 tests. BigQuery / GCP est payé 57 500 € brut annuel médian contre 37 500 € pour Excel, et 47 % des offres acceptent un débutant. Salaires « par mois » saisis en annuel, fourchettes à un zéro près et stages repérés et corrigés dans le modèle.
 
 ---
 
@@ -147,7 +161,7 @@ Pipeline de transformation dbt sur le profil sociodémographique d'étudiants Da
 ![ETL](https://img.shields.io/badge/ETL-6366f1?style=flat-square)
 ![Automatisation](https://img.shields.io/badge/Automatisation-10b981?style=flat-square)
 
-Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salariés et plus, via les APIs France Travail (OAuth2) et INSEE Sirene. 14 recherches métier, déduplication, classification automatique par famille de postes : 787 offres et 1 135 entreprises au dernier passage, en 14 secondes. Chaque source est isolée pour qu'une API en panne n'arrête pas le reste, relances automatiques, et aucune dépendance externe.
+Collecte hebdomadaire des offres data et des entreprises du secteur de 50 salariés et plus, via les APIs France Travail (OAuth2) et INSEE Sirene. 14 recherches métier, déduplication, classification automatique par famille de postes : 787 offres et 1 135 entreprises au dernier passage, en 14 secondes. Chaque source est isolée pour qu'une API en panne n'arrête pas le reste, relances automatiques, et aucune dépendance externe. Sa suite, avec Airflow, dbt et BigQuery : [job-market-analytics](https://github.com/Heltondsm/job-market-analytics).
 
 ---
 
