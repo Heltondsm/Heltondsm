@@ -52,6 +52,7 @@ Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Po
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Bases de données et cloud**
 
@@ -128,6 +129,16 @@ Une base PostgreSQL alimentée par l'API LinkedIn et l'annuaire des entreprises.
 ![Accessibilité](https://img.shields.io/badge/Accessibilit%C3%A9-3b82f6?style=flat-square)
 
 Dans quel pays investir pour l'accès à l'eau potable, et pour quel domaine d'action ? 5 fichiers OMS et FAO nettoyés dans Power Query (jointure à 99 %), un schéma en constellation, 3 vues du monde jusqu'au pays. Un curseur de stabilité politique filtre en direct la carte et les 3 nuages de points : à -1, la recommandation change, et c'est au bailleur de dire quel risque il accepte. Indicateur d'efficacité construit en DAX, moyennes pondérées par la population, 66 ms de calcul en moyenne.
+
+---
+
+### 🌍 [Étude de marché par clustering : choisir les pays où exporter de la volaille bio](https://github.com/Heltondsm/python-etude-marche-clustering-pays)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Clustering](https://img.shields.io/badge/ACP%20%C2%B7%20CAH%20%C2%B7%20k--means-6366f1?style=flat-square)
+
+Un producteur français de poulets bio veut exporter, sans écarter aucun pays au départ. Les bilans FAO 2023 et 4 indicateurs de la Banque mondiale choisis avec une grille PESTEL donnent un tableau de 170 pays et 12 variables, dont 4 créées (distance à la France, dépendance aux importations…). Une ACP garde 72,8 % de l'information sur 5 axes, la CAH de Ward forme 4 familles (k-means d'accord à 82 %), et un zoom sur la famille riche isole 18 grands importateurs. Résultat : 3 marchés prioritaires, le Royaume-Uni, les Pays-Bas et l'Allemagne, à commencer par l'Allemagne.
 
 ---
 
