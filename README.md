@@ -22,9 +22,9 @@
 
 ---
 
-**Data Analyst**, je crée des tableaux de bord, du reporting et des KPI en **SQL, Power BI, Python et Excel**.
+**Data Analyst**, je traduis les besoins métier en **tableaux de bord, reporting et KPI fiables** (SQL, Power BI, Python, Excel), avec une communication claire à la direction.
 
-Venu du commerce et de la relation client, je garantis la qualité des données et j'automatise les tâches avec des **agents IA**.
+Dix ans de commerce, rigueur sur la **qualité des données**, automatisation avec des **agents IA**.
 
 Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Pour une vue d'ensemble, mon portfolio : **[heltondsm.github.io](https://heltondsm.github.io/)**.
 
