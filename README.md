@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Agents+IA;Certifi%C3%A9+Dataiku+Core+et+Advanced+Designer;Un+CRM+data+pilot%C3%A9+avec+des+agents+IA;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=6366F1&center=true&vCenter=true&width=680&lines=SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+Agents+IA;Tableaux+de+bord%2C+reporting+et+qualit%C3%A9+des+donn%C3%A9es;Certifi%C3%A9+Dataiku+Core+et+Advanced+Designer;Un+CRM+data+pilot%C3%A9+avec+des+agents+IA;Du+retail+et+de+l%27e-commerce+%C3%A0+la+data;Portfolio+%3A+heltondsm.github.io" alt="Typing" />
 
 <br/><br/>
 
@@ -53,11 +53,13 @@ Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Po
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-10b981?style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 **Bases de données et cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 **Transformation et pipelines**
 
