@@ -57,6 +57,7 @@ Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Po
 
 **Bases de données et cloud**
 
+![BigQuery](https://img.shields.io/badge/BigQuery%20(Google%20Cloud)-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
@@ -64,6 +65,7 @@ Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Po
 **Transformation et pipelines**
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+ZGJ0PC90aXRsZT48cGF0aCBkPSJNMTcuOTAwNCA5LjM3NjNhOC4xNDg4IDguMTQ4OCAwIDAgMC0zLjA0MjEtMy4xMjA2bDEuNzcwOC44Mzg1YTEwLjI4NzQgMTAuMjg3NCAwIDAgMSAzLjc0IDMuMDAwN2wzLjIzNC01LjkyOTVhMi44NTQ2IDIuODU0NiAwIDAgMC0uMDYxMS0yLjk2MDRDMjIuNzU2Ni4wMzcxIDIxLjIxMTItLjM0MDkgMTkuOTc1NC4zMzI3bC01Ljg3NDkgMy4yMTAxYTQuMzYxMiA0LjM2MTIgMCAwIDEtNC4xNzYxIDBMNC4xNzY5LjQwOGEyLjg1NDUgMi44NTQ1IDAgMCAwLTIuOTU5Mi4wNjMyYy0xLjE2NzMuNzg1My0xLjU0NTIgMi4zMy0uODcyMyAzLjU2NTVMMy41NSA5LjkxMDZhNC4zNjEyIDQuMzYxMiAwIDAgMSAwIDQuMTc3MmwtMy4xMjcyIDUuNzQzYTIuODYgMi44NiAwIDAgMCAuMDg1IDIuOTk3NGMuNzk0IDEuMTQzOCAyLjMyMjUgMS41MDU0IDMuNTQ0OC44Mzg1bDYuMDU4MS0zLjMwNDlhMTAuMjg3NyAxMC4yODc3IDAgMCAxLTMuMDA1MS0zLjc0NTRsLS44Mzc0LTEuNzcwOGE4LjE0OCA4LjE0OCAwIDAgMCAzLjEyMDYgMy4wNDIxbDEwLjU4MzIgNS43NzljMS4yMjEzLjY2NiAyLjc0ODEuMzA1NSAzLjU0MjYtLjgzNjNhMi44Njk5IDIuODY5OSAwIDAgMCAuMDc5Ni0zLjAwMThMMTcuOTAwNCA5LjM3NjN6bTMuMzgwMS03LjczNTFjLjYwMjIgMCAxLjA5MDQuNDg4MiAxLjA5MDQgMS4wOTA0cy0uNDg4MiAxLjA5MDQtMS4wOTA0IDEuMDkwNC0xLjA5MDQtLjQ4ODItMS4wOTA0LTEuMDkwNC40ODgyLTEuMDkwNCAxLjA5MDQtMS4wOTA0ek0yLjc0NDIgMy44MjJjLS42MDIyIDAtMS4wOTA0LS40ODgyLTEuMDkwNC0xLjA5MDRzLjQ4ODItMS4wOTA0IDEuMDkwNC0xLjA5MDQgMS4wOTA0LjQ4ODIgMS4wOTA0IDEuMDkwNFMzLjM0NjQgMy44MjIgMi43NDQyIDMuODIyem0wIDE4LjUzNjNjLS42MDIyIDAtMS4wOTA0LS40ODgyLTEuMDkwNC0xLjA5MDQgMC0uNjAyMi40ODgyLTEuMDkwNCAxLjA5MDQtMS4wOTA0czEuMDkwNC40ODgyIDEuMDkwNCAxLjA5MDRjMCAuNjAyMi0uNDg4MiAxLjA5MDQtMS4wOTA0IDEuMDkwNHptMTAuMzU4NS0xMS40NDg5Yy0xLjIwMDgtLjAwMzUtMi4xNzcuOTY3Mi0yLjE4MDUgMi4xNjc5YTIuMTczOCAyLjE3MzggMCAwIDAgLjcwNTIgMS42MDkxYy0xLjQ4NzItLjIwOTEtMi41MjM0LTEuNTg0My0yLjMxNDItMy4wNzE2LjIwOTEtMS40ODcyIDEuNTg0My0yLjUyMzQgMy4wNzE2LTIuMzE0MmEyLjcxOTQgMi43MTk0IDAgMCAxIDIuMzE0MiAyLjMxNDIgMi4xNjIzIDIuMTYyMyAwIDAgMC0xLjU5NjMtLjcwNTR6bTguMTc3OCAxMS40NDg5Yy0uNjAyMiAwLTEuMDkwNC0uNDg4Mi0xLjA5MDQtMS4wOTA0IDAtLjYwMjIuNDg4Mi0xLjA5MDQgMS4wOTA0LTEuMDkwNHMxLjA5MDQuNDg4MiAxLjA5MDQgMS4wOTA0YzAgLjYwMjItLjQ4ODIgMS4wOTA0LTEuMDkwNCAxLjA5MDR6Ii8+PC9zdmc+)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![API REST](https://img.shields.io/badge/API%20REST-0f62fe?style=for-the-badge)
 
 **IA agentique et automatisation**
@@ -84,6 +86,16 @@ Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Po
 ---
 
 ## 🗂️ Projets
+
+### 💶 [Pilotage financier d'une PME : trésorerie, impayés et comparaison au secteur](https://github.com/Heltondsm/pilotage-financier-pme)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
+
+Un DAF de PME découvrait trop tard ses clients en difficulté et ne savait pas combien il aurait en banque dans 90 jours. Une chaîne Airflow recalcule tout chaque nuit dans BigQuery avec dbt (72 contrôles), à partir des annonces légales du Bodacc et de 6,8 millions de bilans publics. La prévision de trésorerie tombe à 4,8 % du solde réel à 30 jours, 38 clients en procédure collective sont signalés chaque matin, et l'entreprise est comparée à ses 134 concurrents dans un tableau de bord Power BI de 7 pages.
+
+---
 
 ### 🤖 ⭐ [CRM data et agents IA : centraliser opportunités, contacts et échanges](https://github.com/Heltondsm/crm-data-agents-ia)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
