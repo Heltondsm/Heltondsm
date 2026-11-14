@@ -87,13 +87,14 @@ Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Po
 
 ## 🗂️ Projets
 
-### 💶 [Pilotage financier d'une PME : trésorerie, impayés et comparaison au secteur](https://github.com/Heltondsm/pilotage-financier-pme)
+### 💶 [Pilotage financier d'une PME : trésorerie, impayés, comparaison au secteur et assistant IA](https://github.com/Heltondsm/pilotage-financier-pme)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
+![IA](https://img.shields.io/badge/IA-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-Un DAF de PME découvrait trop tard ses clients en difficulté et ne savait pas combien il aurait en banque dans 90 jours. Une chaîne Airflow recalcule tout chaque nuit dans BigQuery avec dbt (72 contrôles), à partir des annonces légales du Bodacc et de 6,8 millions de bilans publics. La prévision de trésorerie tombe à 4,8 % du solde réel à 30 jours, 38 clients en procédure collective sont signalés chaque matin, et l'entreprise est comparée à ses 134 concurrents dans un tableau de bord Power BI de 7 pages.
+Un DAF de PME découvrait trop tard ses clients en difficulté et ne savait pas combien il aurait en banque dans 90 jours. Une chaîne Airflow recalcule tout chaque nuit dans BigQuery avec dbt (72 contrôles), à partir des annonces légales du Bodacc et de 6,8 millions de bilans publics. La prévision de trésorerie tombe à 4,8 % du solde réel à 30 jours, 38 clients en procédure collective sont signalés chaque matin, et l'entreprise est comparée à ses 134 concurrents dans un tableau de bord Power BI de 7 pages. Un assistant IA lui donne ses chiffres en quelques secondes, sans export Excel : il écrit la requête SQL, la fait vérifier par des garde-fous et répond en français ; testé 48 fois, 48 réponses justes.
 
 ---
 
