@@ -22,9 +22,9 @@
 
 ---
 
-**Data Analyst**, je traduis les besoins métier en **tableaux de bord, reporting et KPI fiables** (SQL, Power BI, Python, Excel), avec une communication claire à la direction.
+**Data Analyst depuis 4 ans**, j'aide les équipes métier et la direction à piloter leur performance avec des **tableaux de bord, du reporting et des KPI** (SQL, Power BI, Python, Excel).
 
-Dix ans de commerce, rigueur sur la **qualité des données**, automatisation avec des **agents IA**.
+Venu de la vente, autonome et rigoureux, j'explique les chiffres avec pédagogie et j'automatise avec des **agents IA**.
 
 Chaque projet ci-dessous a son dépôt, avec le code et un README détaillé. Pour une vue d'ensemble, mon portfolio : **[heltondsm.github.io](https://heltondsm.github.io/)**.
 
@@ -215,15 +215,15 @@ Un site e-commerce pivote sa stratégie. J'analyse l'impact : trafic ×30, taux 
 ---
 
 
-## 💼 Parcours récent
+## 💼 Expérience
 
 <div align="center">
 
 | Période | Rôle | Impact data |
 |:---:|---|---|
-| 01/2022 - 09/2026 | **Responsable e-commerce, analyse et pilotage de la performance** · indépendant, 10 boutiques Shopify | Taux de conversion et panier moyen améliorés par des tests A/B suivis dans Google Analytics 4, budget marketing concentré chaque semaine sur les campagnes rentables (ROAS, CAC) |
-| 09/2022 - 07/2024 | **Conseiller commercial, puis directeur adjoint** · HUBSIDE STORE | Tableau de bord hebdomadaire automatisé sous Excel à partir d'extractions CRM, objectifs de 8 vendeurs fixés sur leurs indicateurs, reporting mensuel à la direction, promu en 5 mois |
-| 06/2019 - 09/2022 | **Consultant technique principal** · BRICOMAN, GROUPE ADEO | Opportunités de vente croisée détectées en analysant les données commerciales de clients B2B du BTP |
+| 01/2022 - 09/2026 | **Data Analyst e-commerce et marketing** · indépendant, 10 boutiques Shopify | Coût d'acquisition réduit de 9 % (suivi des campagnes Meta Ads dans Power BI), conversion de 1,6 à 1,9 % avec 8 tests A/B en Python, 11 % du chiffre d'affaires généré par des relances ciblées (segmentation RFM) |
+| 09/2022 - 07/2024 | **Data Analyst / Directeur adjoint** · HUBSIDE STORE | Reporting hebdomadaire de 4 boutiques automatisé (SQL, tableau de bord de 12 KPI), écarts CRM et encaissements ramenés sous 1 %, taux de transformation +2 points, panier moyen +6 % avec 8 vendeurs |
+| 06/2019 - 09/2022 | **Consultant technique principal, vente B2B** · BRICOMAN, GROUPE ADEO | Ventes B2B développées auprès des artisans du BTP, portefeuille de clients professionnels suivi à partir des données de ventes |
 
 </div>
 
